@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Data
+data/
+*.session
+*.session-journal
+
+# Logs
+logs/
