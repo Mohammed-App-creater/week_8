@@ -1,0 +1,2 @@
+-- Example initialization script for PostgreSQL
+-- CREATE DATABASE medical_data;
