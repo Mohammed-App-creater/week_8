@@ -1,5 +1,10 @@
+/*
+    Mart Model: dim_channels
+    Purpose: Dimension table for derived channel attributes.
+    Grain: One row per channel.
+*/
 
-with messages as (
+with stg as (
     select * from {{ ref('stg_telegram_messages') }}
 ),
 
@@ -10,25 +15,30 @@ channel_stats as (
         max(message_date) as last_post_date,
         count(*) as total_posts,
         avg(views) as avg_views
-    from messages
+    from stg
     group by 1
-),
-
-final as (
-    select
-        {{ dbt_utils.generate_surrogate_key(['channel_name']) }} as channel_key,
-        channel_name,
-        case
-            when lower(channel_name) like '%pharma%' then 'pharmaceutical'
-            when lower(channel_name) like '%cosmetic%' then 'cosmetics'
-            when lower(channel_name) like '%medic%' then 'medical'
-            else 'general'
-        end as channel_type,
-        first_post_date,
-        last_post_date,
-        total_posts,
-        round(avg_views, 2) as avg_views
-    from channel_stats
 )
 
-select * from final
+select
+    -- Surrogate Key
+    {{ dbt_utils.surrogate_key(['channel_name']) }} as channel_key,
+    
+    channel_name,
+    
+    -- Assuming title is same as name if not distinct in source, or map from another source if avail. 
+    -- Requirement says: "channel_title (use channel_name if none)"
+    channel_name as channel_title,
+    
+    -- Placeholder logic for channel_type
+    case 
+        when channel_name ilike '%news%' then 'News'
+        when channel_name ilike '%chart%' then 'Data'
+        else 'General'
+    end as channel_type,
+    
+    first_post_date,
+    last_post_date,
+    total_posts,
+    avg_views
+
+from channel_stats
