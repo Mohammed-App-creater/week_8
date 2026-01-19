@@ -1,0 +1,28 @@
+
+version: 2
+
+models:
+  - name: stg_telegram_messages
+    description: "Staging model for cleaned telegram messages"
+    columns:
+      - name: message_id
+        description: "Original message ID from Telegram channel"
+        tests:
+          - not_null
+      - name: channel_name
+        description: "Name of the source channel"
+        tests:
+          - not_null
+      - name: message_date
+        description: "Timestamp of the message"
+        tests:
+          - not_null
+      - name: message_text
+        description: "Content of the message"
+        tests:
+          - not_null
+      - name: has_image
+        description: "Boolean indicating if message has an associated image"
+        tests:
+          - accepted_values:
+              values: [true, false]
