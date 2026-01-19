@@ -1,29 +1,41 @@
+/*
+    Mart Model: fct_messages
+    Purpose: Fact table containing message metrics and keys to dimensions.
+    Grain: One row per message.
+*/
 
-with messages as (
+with stg as (
     select * from {{ ref('stg_telegram_messages') }}
-),
-
-channels as (
-    select * from {{ ref('dim_channels') }}
 ),
 
 dates as (
     select * from {{ ref('dim_dates') }}
 ),
 
-final as (
-    select
-        m.message_id,
-        c.channel_key,
-        d.date_key,
-        m.message_text,
-        m.message_length,
-        m.views as view_count,
-        m.forwards as forward_count,
-        m.has_image
-    from messages m
-    left join channels c on m.channel_name = c.channel_name
-    left join dates d on m.message_date::date = d.full_date
+channels as (
+    select * from {{ ref('dim_channels') }}
 )
 
-select * from final
+select
+    stg.message_id,
+    
+    -- Foreign Keys
+    channels.channel_key,
+    dates.date_key,
+    
+    -- Metrics / Facts
+    stg.message_text,
+    stg.message_length,
+    stg.views as view_count,
+    stg.forwards as forward_count,
+    stg.has_image,
+    stg.image_path,
+    
+    -- Metadata
+    stg.message_date as created_at
+
+from stg
+left join channels 
+    on stg.channel_name = channels.channel_name
+left join dates 
+    on date(stg.message_date) = dates.full_date

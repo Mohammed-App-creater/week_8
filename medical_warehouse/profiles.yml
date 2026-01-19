@@ -1,13 +1,25 @@
+# medical_warehouse/profiles.yml
+# ------------------------------------------------------------------------------
+# INSTRUCTIONS FOR LOCAL USAGE:
+# Set the following environment variables in your shell or .env file before running dbt:
+# export DB_HOST=localhost
+# export DB_PORT=5432
+# export DB_USER=my_user
+# export DB_PASSWORD=my_password
+# export DB_NAME=my_database
+# export DB_SCHEMA=analytics
+# ------------------------------------------------------------------------------
 
 medical_warehouse:
   target: dev
   outputs:
     dev:
       type: postgres
-      host: "{{ env_var('DB_HOST', 'localhost') }}"
-      user: "{{ env_var('DB_USER', 'postgres') }}"
-      password: "{{ env_var('DB_PASSWORD', 'password') }}"
+      threads: 4
+      host: "{{ env_var('DB_HOST') }}"
       port: "{{ env_var('DB_PORT', '5432') | int }}"
-      dbname: "{{ env_var('DB_NAME', 'TelegramDB') }}"
-      schema: public
-      threads: 1
+      user: "{{ env_var('DB_USER') }}"
+      pass: "{{ env_var('DB_PASSWORD') }}"
+      dbname: "{{ env_var('DB_NAME') }}"
+      schema: "{{ env_var('DB_SCHEMA', 'analytics') }}"
+      keepalives_idle: 0
