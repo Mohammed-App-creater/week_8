@@ -1,0 +1,6768 @@
+[
+  {
+    "message_id": "22847",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22847.jpg",
+    "relative_path": "lobelia4cosmetics\\22847.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.801
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.801,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:25.700629+00:00"
+  },
+  {
+    "message_id": "22848",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22848.jpg",
+    "relative_path": "lobelia4cosmetics\\22848.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.597
+      },
+      {
+        "class": "person",
+        "confidence": 0.325
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.461,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:25.960033+00:00"
+  },
+  {
+    "message_id": "22849",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22849.jpg",
+    "relative_path": "lobelia4cosmetics\\22849.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:26.265154+00:00"
+  },
+  {
+    "message_id": "22850",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22850.jpg",
+    "relative_path": "lobelia4cosmetics\\22850.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:26.500305+00:00"
+  },
+  {
+    "message_id": "22851",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22851.jpg",
+    "relative_path": "lobelia4cosmetics\\22851.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.588
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.319
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.454,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:26.712082+00:00"
+  },
+  {
+    "message_id": "22852",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22852.jpg",
+    "relative_path": "lobelia4cosmetics\\22852.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:26.950056+00:00"
+  },
+  {
+    "message_id": "22853",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22853.jpg",
+    "relative_path": "lobelia4cosmetics\\22853.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:27.186302+00:00"
+  },
+  {
+    "message_id": "22854",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22854.jpg",
+    "relative_path": "lobelia4cosmetics\\22854.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:27.430758+00:00"
+  },
+  {
+    "message_id": "22855",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22855.jpg",
+    "relative_path": "lobelia4cosmetics\\22855.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:27.663571+00:00"
+  },
+  {
+    "message_id": "22856",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22856.jpg",
+    "relative_path": "lobelia4cosmetics\\22856.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:27.897843+00:00"
+  },
+  {
+    "message_id": "22857",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22857.jpg",
+    "relative_path": "lobelia4cosmetics\\22857.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.502
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.502,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:28.183309+00:00"
+  },
+  {
+    "message_id": "22858",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22858.jpg",
+    "relative_path": "lobelia4cosmetics\\22858.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:28.415801+00:00"
+  },
+  {
+    "message_id": "22859",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22859.jpg",
+    "relative_path": "lobelia4cosmetics\\22859.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.579
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.579,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:28.665927+00:00"
+  },
+  {
+    "message_id": "22860",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22860.jpg",
+    "relative_path": "lobelia4cosmetics\\22860.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.385
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.385,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:28.885282+00:00"
+  },
+  {
+    "message_id": "22861",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22861.jpg",
+    "relative_path": "lobelia4cosmetics\\22861.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.597
+      },
+      {
+        "class": "person",
+        "confidence": 0.325
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.461,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:29.123259+00:00"
+  },
+  {
+    "message_id": "22862",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22862.jpg",
+    "relative_path": "lobelia4cosmetics\\22862.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.932
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.932,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:29.342609+00:00"
+  },
+  {
+    "message_id": "22863",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22863.jpg",
+    "relative_path": "lobelia4cosmetics\\22863.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.904
+      },
+      {
+        "class": "dining table",
+        "confidence": 0.338
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.621,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:29.573072+00:00"
+  },
+  {
+    "message_id": "22864",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22864.jpg",
+    "relative_path": "lobelia4cosmetics\\22864.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "dining table",
+        "confidence": 0.293
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.293,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:29.802643+00:00"
+  },
+  {
+    "message_id": "22865",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22865.jpg",
+    "relative_path": "lobelia4cosmetics\\22865.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.724
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.724,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:30.010285+00:00"
+  },
+  {
+    "message_id": "22866",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22866.jpg",
+    "relative_path": "lobelia4cosmetics\\22866.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:30.284696+00:00"
+  },
+  {
+    "message_id": "22867",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22867.jpg",
+    "relative_path": "lobelia4cosmetics\\22867.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "book",
+        "confidence": 0.275
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.275,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:30.537856+00:00"
+  },
+  {
+    "message_id": "22868",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22868.jpg",
+    "relative_path": "lobelia4cosmetics\\22868.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.28
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.28,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:30.774752+00:00"
+  },
+  {
+    "message_id": "22869",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22869.jpg",
+    "relative_path": "lobelia4cosmetics\\22869.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:31.098083+00:00"
+  },
+  {
+    "message_id": "22870",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22870.jpg",
+    "relative_path": "lobelia4cosmetics\\22870.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.571
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.571,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:31.334957+00:00"
+  },
+  {
+    "message_id": "22871",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22871.jpg",
+    "relative_path": "lobelia4cosmetics\\22871.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "book",
+        "confidence": 0.35
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.263
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.307,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:31.618253+00:00"
+  },
+  {
+    "message_id": "22872",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22872.jpg",
+    "relative_path": "lobelia4cosmetics\\22872.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.916
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.819
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.867,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:31.855742+00:00"
+  },
+  {
+    "message_id": "22873",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22873.jpg",
+    "relative_path": "lobelia4cosmetics\\22873.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.869
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.869,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:32.068233+00:00"
+  },
+  {
+    "message_id": "22874",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22874.jpg",
+    "relative_path": "lobelia4cosmetics\\22874.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "cell phone",
+        "confidence": 0.463
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.463,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:32.287698+00:00"
+  },
+  {
+    "message_id": "22875",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22875.jpg",
+    "relative_path": "lobelia4cosmetics\\22875.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:32.572996+00:00"
+  },
+  {
+    "message_id": "22876",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22876.jpg",
+    "relative_path": "lobelia4cosmetics\\22876.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.571
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.571,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:32.781840+00:00"
+  },
+  {
+    "message_id": "22877",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22877.jpg",
+    "relative_path": "lobelia4cosmetics\\22877.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:33.009716+00:00"
+  },
+  {
+    "message_id": "22878",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22878.jpg",
+    "relative_path": "lobelia4cosmetics\\22878.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:33.195644+00:00"
+  },
+  {
+    "message_id": "22879",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22879.jpg",
+    "relative_path": "lobelia4cosmetics\\22879.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.624
+      },
+      {
+        "class": "surfboard",
+        "confidence": 0.366
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.495,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:33.474198+00:00"
+  },
+  {
+    "message_id": "22880",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22880.jpg",
+    "relative_path": "lobelia4cosmetics\\22880.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:33.751800+00:00"
+  },
+  {
+    "message_id": "22881",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22881.jpg",
+    "relative_path": "lobelia4cosmetics\\22881.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:34.028739+00:00"
+  },
+  {
+    "message_id": "22882",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22882.jpg",
+    "relative_path": "lobelia4cosmetics\\22882.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.831
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.831,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:34.269389+00:00"
+  },
+  {
+    "message_id": "22883",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22883.jpg",
+    "relative_path": "lobelia4cosmetics\\22883.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:34.478773+00:00"
+  },
+  {
+    "message_id": "22884",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22884.jpg",
+    "relative_path": "lobelia4cosmetics\\22884.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "teddy bear",
+        "confidence": 0.318
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.318,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:34.762031+00:00"
+  },
+  {
+    "message_id": "22885",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22885.jpg",
+    "relative_path": "lobelia4cosmetics\\22885.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:34.993053+00:00"
+  },
+  {
+    "message_id": "22886",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22886.jpg",
+    "relative_path": "lobelia4cosmetics\\22886.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:35.219961+00:00"
+  },
+  {
+    "message_id": "22887",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22887.jpg",
+    "relative_path": "lobelia4cosmetics\\22887.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:35.450235+00:00"
+  },
+  {
+    "message_id": "22888",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22888.jpg",
+    "relative_path": "lobelia4cosmetics\\22888.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:35.668573+00:00"
+  },
+  {
+    "message_id": "22889",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22889.jpg",
+    "relative_path": "lobelia4cosmetics\\22889.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.87
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.87,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:35.945711+00:00"
+  },
+  {
+    "message_id": "22890",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22890.jpg",
+    "relative_path": "lobelia4cosmetics\\22890.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.484
+      },
+      {
+        "class": "dining table",
+        "confidence": 0.295
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.389,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:36.150619+00:00"
+  },
+  {
+    "message_id": "22891",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22891.jpg",
+    "relative_path": "lobelia4cosmetics\\22891.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.588
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.319
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.454,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:36.403155+00:00"
+  },
+  {
+    "message_id": "22892",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22892.jpg",
+    "relative_path": "lobelia4cosmetics\\22892.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "parking meter",
+        "confidence": 0.255
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.255,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:36.613567+00:00"
+  },
+  {
+    "message_id": "22893",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22893.jpg",
+    "relative_path": "lobelia4cosmetics\\22893.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.624
+      },
+      {
+        "class": "surfboard",
+        "confidence": 0.366
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.495,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:36.876310+00:00"
+  },
+  {
+    "message_id": "22894",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22894.jpg",
+    "relative_path": "lobelia4cosmetics\\22894.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.679
+      },
+      {
+        "class": "stop sign",
+        "confidence": 0.272
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.475,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:37.128354+00:00"
+  },
+  {
+    "message_id": "22895",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22895.jpg",
+    "relative_path": "lobelia4cosmetics\\22895.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:37.393706+00:00"
+  },
+  {
+    "message_id": "22896",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22896.jpg",
+    "relative_path": "lobelia4cosmetics\\22896.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.655
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.638
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.619
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.608
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.605
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.593
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.588
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.569
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.568
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.562
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.537
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.52
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.505
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.491
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.49
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.49
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.486
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.442
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.439
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.389
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.34
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.324
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.315
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.297
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.285
+      }
+    ],
+    "object_count": 25,
+    "avg_confidence": 0.494,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:37.676276+00:00"
+  },
+  {
+    "message_id": "22897",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22897.jpg",
+    "relative_path": "lobelia4cosmetics\\22897.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.855
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.798
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.776
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.67
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.624
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.57
+      }
+    ],
+    "object_count": 6,
+    "avg_confidence": 0.716,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:37.915782+00:00"
+  },
+  {
+    "message_id": "22898",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22898.jpg",
+    "relative_path": "lobelia4cosmetics\\22898.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "suitcase",
+        "confidence": 0.322
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.322,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:38.161807+00:00"
+  },
+  {
+    "message_id": "22899",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22899.jpg",
+    "relative_path": "lobelia4cosmetics\\22899.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "oven",
+        "confidence": 0.253
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.253,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:38.371935+00:00"
+  },
+  {
+    "message_id": "22900",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22900.jpg",
+    "relative_path": "lobelia4cosmetics\\22900.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:38.632191+00:00"
+  },
+  {
+    "message_id": "22901",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22901.jpg",
+    "relative_path": "lobelia4cosmetics\\22901.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.519
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.519,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:38.850091+00:00"
+  },
+  {
+    "message_id": "22902",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22902.jpg",
+    "relative_path": "lobelia4cosmetics\\22902.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:39.054983+00:00"
+  },
+  {
+    "message_id": "22903",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22903.jpg",
+    "relative_path": "lobelia4cosmetics\\22903.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:39.310099+00:00"
+  },
+  {
+    "message_id": "22904",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22904.jpg",
+    "relative_path": "lobelia4cosmetics\\22904.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.588
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.319
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.454,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:39.534515+00:00"
+  },
+  {
+    "message_id": "22905",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22905.jpg",
+    "relative_path": "lobelia4cosmetics\\22905.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:39.793268+00:00"
+  },
+  {
+    "message_id": "22906",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22906.jpg",
+    "relative_path": "lobelia4cosmetics\\22906.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:40.007060+00:00"
+  },
+  {
+    "message_id": "22907",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22907.jpg",
+    "relative_path": "lobelia4cosmetics\\22907.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "refrigerator",
+        "confidence": 0.482
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.482,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:40.200478+00:00"
+  },
+  {
+    "message_id": "22908",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22908.jpg",
+    "relative_path": "lobelia4cosmetics\\22908.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "orange",
+        "confidence": 0.69
+      },
+      {
+        "class": "orange",
+        "confidence": 0.598
+      },
+      {
+        "class": "apple",
+        "confidence": 0.342
+      },
+      {
+        "class": "cup",
+        "confidence": 0.272
+      }
+    ],
+    "object_count": 4,
+    "avg_confidence": 0.476,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:40.470755+00:00"
+  },
+  {
+    "message_id": "22909",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22909.jpg",
+    "relative_path": "lobelia4cosmetics\\22909.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "parking meter",
+        "confidence": 0.255
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.255,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:40.665647+00:00"
+  },
+  {
+    "message_id": "22910",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22910.jpg",
+    "relative_path": "lobelia4cosmetics\\22910.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:40.882140+00:00"
+  },
+  {
+    "message_id": "22911",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22911.jpg",
+    "relative_path": "lobelia4cosmetics\\22911.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.571
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.571,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:41.084331+00:00"
+  },
+  {
+    "message_id": "22912",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22912.jpg",
+    "relative_path": "lobelia4cosmetics\\22912.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:41.360679+00:00"
+  },
+  {
+    "message_id": "22913",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22913.jpg",
+    "relative_path": "lobelia4cosmetics\\22913.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:41.548005+00:00"
+  },
+  {
+    "message_id": "22914",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22914.jpg",
+    "relative_path": "lobelia4cosmetics\\22914.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.502
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.502,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:41.806146+00:00"
+  },
+  {
+    "message_id": "22915",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22915.jpg",
+    "relative_path": "lobelia4cosmetics\\22915.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "cell phone",
+        "confidence": 0.32
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.32,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:42.019347+00:00"
+  },
+  {
+    "message_id": "22916",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22916.jpg",
+    "relative_path": "lobelia4cosmetics\\22916.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.624
+      },
+      {
+        "class": "surfboard",
+        "confidence": 0.366
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.495,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:42.281194+00:00"
+  },
+  {
+    "message_id": "22917",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22917.jpg",
+    "relative_path": "lobelia4cosmetics\\22917.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.679
+      },
+      {
+        "class": "stop sign",
+        "confidence": 0.272
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.475,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:42.527560+00:00"
+  },
+  {
+    "message_id": "22918",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22918.jpg",
+    "relative_path": "lobelia4cosmetics\\22918.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "clock",
+        "confidence": 0.27
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.27,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:42.745973+00:00"
+  },
+  {
+    "message_id": "22919",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22919.jpg",
+    "relative_path": "lobelia4cosmetics\\22919.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "cake",
+        "confidence": 0.549
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.549,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:42.942704+00:00"
+  },
+  {
+    "message_id": "22920",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22920.jpg",
+    "relative_path": "lobelia4cosmetics\\22920.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.902
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.902,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:43.172308+00:00"
+  },
+  {
+    "message_id": "22921",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22921.jpg",
+    "relative_path": "lobelia4cosmetics\\22921.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.816
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.463
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.64,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:43.398241+00:00"
+  },
+  {
+    "message_id": "22922",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22922.jpg",
+    "relative_path": "lobelia4cosmetics\\22922.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.351
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.351,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:43.627317+00:00"
+  },
+  {
+    "message_id": "22923",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22923.jpg",
+    "relative_path": "lobelia4cosmetics\\22923.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:43.857557+00:00"
+  },
+  {
+    "message_id": "22924",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22924.jpg",
+    "relative_path": "lobelia4cosmetics\\22924.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:44.083480+00:00"
+  },
+  {
+    "message_id": "22925",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22925.jpg",
+    "relative_path": "lobelia4cosmetics\\22925.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:44.300727+00:00"
+  },
+  {
+    "message_id": "22926",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22926.jpg",
+    "relative_path": "lobelia4cosmetics\\22926.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:44.539896+00:00"
+  },
+  {
+    "message_id": "22927",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22927.jpg",
+    "relative_path": "lobelia4cosmetics\\22927.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:44.857140+00:00"
+  },
+  {
+    "message_id": "22928",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22928.jpg",
+    "relative_path": "lobelia4cosmetics\\22928.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.87
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.87,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:45.130208+00:00"
+  },
+  {
+    "message_id": "22929",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22929.jpg",
+    "relative_path": "lobelia4cosmetics\\22929.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.484
+      },
+      {
+        "class": "dining table",
+        "confidence": 0.295
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.389,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:45.350740+00:00"
+  },
+  {
+    "message_id": "22930",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22930.jpg",
+    "relative_path": "lobelia4cosmetics\\22930.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "parking meter",
+        "confidence": 0.255
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.255,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:45.536370+00:00"
+  },
+  {
+    "message_id": "22931",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22931.jpg",
+    "relative_path": "lobelia4cosmetics\\22931.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.624
+      },
+      {
+        "class": "surfboard",
+        "confidence": 0.366
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.495,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:45.813765+00:00"
+  },
+  {
+    "message_id": "22932",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22932.jpg",
+    "relative_path": "lobelia4cosmetics\\22932.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:46.075932+00:00"
+  },
+  {
+    "message_id": "22933",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22933.jpg",
+    "relative_path": "lobelia4cosmetics\\22933.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:46.345934+00:00"
+  },
+  {
+    "message_id": "22934",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22934.jpg",
+    "relative_path": "lobelia4cosmetics\\22934.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.588
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.319
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.454,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:46.582341+00:00"
+  },
+  {
+    "message_id": "22935",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22935.jpg",
+    "relative_path": "lobelia4cosmetics\\22935.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:46.803760+00:00"
+  },
+  {
+    "message_id": "22936",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22936.jpg",
+    "relative_path": "lobelia4cosmetics\\22936.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "refrigerator",
+        "confidence": 0.482
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.482,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:46.980915+00:00"
+  },
+  {
+    "message_id": "22937",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22937.jpg",
+    "relative_path": "lobelia4cosmetics\\22937.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "orange",
+        "confidence": 0.69
+      },
+      {
+        "class": "orange",
+        "confidence": 0.598
+      },
+      {
+        "class": "apple",
+        "confidence": 0.342
+      },
+      {
+        "class": "cup",
+        "confidence": 0.272
+      }
+    ],
+    "object_count": 4,
+    "avg_confidence": 0.476,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:47.247817+00:00"
+  },
+  {
+    "message_id": "22938",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22938.jpg",
+    "relative_path": "lobelia4cosmetics\\22938.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:47.472051+00:00"
+  },
+  {
+    "message_id": "22939",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22939.jpg",
+    "relative_path": "lobelia4cosmetics\\22939.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "clock",
+        "confidence": 0.27
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.27,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:47.709157+00:00"
+  },
+  {
+    "message_id": "22940",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22940.jpg",
+    "relative_path": "lobelia4cosmetics\\22940.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.422
+      },
+      {
+        "class": "apple",
+        "confidence": 0.309
+      },
+      {
+        "class": "apple",
+        "confidence": 0.282
+      }
+    ],
+    "object_count": 3,
+    "avg_confidence": 0.338,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:47.942949+00:00"
+  },
+  {
+    "message_id": "22941",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22941.jpg",
+    "relative_path": "lobelia4cosmetics\\22941.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.933
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.933,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:48.150773+00:00"
+  },
+  {
+    "message_id": "22942",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22942.jpg",
+    "relative_path": "lobelia4cosmetics\\22942.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.902
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.902,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:48.363728+00:00"
+  },
+  {
+    "message_id": "22943",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22943.jpg",
+    "relative_path": "lobelia4cosmetics\\22943.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.816
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.463
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.64,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:48.588499+00:00"
+  },
+  {
+    "message_id": "22944",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22944.jpg",
+    "relative_path": "lobelia4cosmetics\\22944.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.351
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.351,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:48.803163+00:00"
+  },
+  {
+    "message_id": "22945",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22945.jpg",
+    "relative_path": "lobelia4cosmetics\\22945.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:49.019513+00:00"
+  },
+  {
+    "message_id": "22946",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22946.jpg",
+    "relative_path": "lobelia4cosmetics\\22946.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:49.236255+00:00"
+  },
+  {
+    "message_id": "188920",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188920.jpg",
+    "relative_path": "tikvahpharma\\188920.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "cell phone",
+        "confidence": 0.43
+      },
+      {
+        "class": "person",
+        "confidence": 0.253
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.341,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:49.468146+00:00"
+  },
+  {
+    "message_id": "188926",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188926.jpg",
+    "relative_path": "tikvahpharma\\188926.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "vase",
+        "confidence": 0.497
+      },
+      {
+        "class": "vase",
+        "confidence": 0.392
+      },
+      {
+        "class": "vase",
+        "confidence": 0.337
+      },
+      {
+        "class": "vase",
+        "confidence": 0.315
+      },
+      {
+        "class": "vase",
+        "confidence": 0.267
+      }
+    ],
+    "object_count": 5,
+    "avg_confidence": 0.362,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:49.685179+00:00"
+  },
+  {
+    "message_id": "188927",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188927.jpg",
+    "relative_path": "tikvahpharma\\188927.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:49.904848+00:00"
+  },
+  {
+    "message_id": "188931",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188931.jpg",
+    "relative_path": "tikvahpharma\\188931.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:50.160684+00:00"
+  },
+  {
+    "message_id": "188936",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188936.jpg",
+    "relative_path": "tikvahpharma\\188936.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:50.375863+00:00"
+  },
+  {
+    "message_id": "188938",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188938.jpg",
+    "relative_path": "tikvahpharma\\188938.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "vase",
+        "confidence": 0.497
+      },
+      {
+        "class": "vase",
+        "confidence": 0.392
+      },
+      {
+        "class": "vase",
+        "confidence": 0.337
+      },
+      {
+        "class": "vase",
+        "confidence": 0.315
+      },
+      {
+        "class": "vase",
+        "confidence": 0.267
+      }
+    ],
+    "object_count": 5,
+    "avg_confidence": 0.362,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:50.595809+00:00"
+  },
+  {
+    "message_id": "188940",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188940.jpg",
+    "relative_path": "tikvahpharma\\188940.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:50.824192+00:00"
+  },
+  {
+    "message_id": "188941",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188941.jpg",
+    "relative_path": "tikvahpharma\\188941.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:51.067203+00:00"
+  },
+  {
+    "message_id": "188942",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188942.jpg",
+    "relative_path": "tikvahpharma\\188942.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "scissors",
+        "confidence": 0.907
+      },
+      {
+        "class": "scissors",
+        "confidence": 0.627
+      },
+      {
+        "class": "scissors",
+        "confidence": 0.558
+      }
+    ],
+    "object_count": 3,
+    "avg_confidence": 0.697,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:51.330397+00:00"
+  },
+  {
+    "message_id": "188954",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188954.jpg",
+    "relative_path": "tikvahpharma\\188954.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "sports ball",
+        "confidence": 0.8
+      },
+      {
+        "class": "person",
+        "confidence": 0.729
+      },
+      {
+        "class": "scissors",
+        "confidence": 0.46
+      },
+      {
+        "class": "person",
+        "confidence": 0.302
+      }
+    ],
+    "object_count": 4,
+    "avg_confidence": 0.573,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:51.586427+00:00"
+  },
+  {
+    "message_id": "188960",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188960.jpg",
+    "relative_path": "tikvahpharma\\188960.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:51.807060+00:00"
+  },
+  {
+    "message_id": "188962",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188962.jpg",
+    "relative_path": "tikvahpharma\\188962.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.716
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.574
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.566
+      },
+      {
+        "class": "refrigerator",
+        "confidence": 0.529
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.524
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.514
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.446
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.435
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.407
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.406
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.392
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.376
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.372
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.328
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.328
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.314
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.307
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.301
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.296
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.287
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.282
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.273
+      }
+    ],
+    "object_count": 22,
+    "avg_confidence": 0.408,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:52.045750+00:00"
+  },
+  {
+    "message_id": "188970",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188970.jpg",
+    "relative_path": "tikvahpharma\\188970.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.779
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.779,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:52.264993+00:00"
+  },
+  {
+    "message_id": "188973",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188973.jpg",
+    "relative_path": "tikvahpharma\\188973.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:52.468048+00:00"
+  },
+  {
+    "message_id": "188975",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188975.jpg",
+    "relative_path": "tikvahpharma\\188975.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.67
+      },
+      {
+        "class": "person",
+        "confidence": 0.51
+      },
+      {
+        "class": "person",
+        "confidence": 0.485
+      },
+      {
+        "class": "person",
+        "confidence": 0.403
+      },
+      {
+        "class": "person",
+        "confidence": 0.271
+      }
+    ],
+    "object_count": 5,
+    "avg_confidence": 0.468,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:52.700623+00:00"
+  },
+  {
+    "message_id": "188979",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188979.jpg",
+    "relative_path": "tikvahpharma\\188979.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.375
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.375,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:52.940993+00:00"
+  },
+  {
+    "message_id": "188981",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188981.jpg",
+    "relative_path": "tikvahpharma\\188981.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.408
+      },
+      {
+        "class": "refrigerator",
+        "confidence": 0.374
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.304
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.289
+      }
+    ],
+    "object_count": 4,
+    "avg_confidence": 0.344,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:53.185674+00:00"
+  },
+  {
+    "message_id": "188982",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188982.jpg",
+    "relative_path": "tikvahpharma\\188982.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.833
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.778
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.741
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.701
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.667
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.654
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.62
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.613
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.571
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.567
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.554
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.552
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.535
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.499
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.481
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.479
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.465
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.46
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.457
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.445
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.438
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.435
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.413
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.402
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.4
+      },
+      {
+        "class": "person",
+        "confidence": 0.391
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.381
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.38
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.355
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.345
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.331
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.329
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.328
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.327
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.326
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.326
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.323
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.322
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.322
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.317
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.317
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.311
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.298
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.29
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.285
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.277
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.27
+      },
+      {
+        "class": "person",
+        "confidence": 0.266
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.26
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.259
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.251
+      }
+    ],
+    "object_count": 51,
+    "avg_confidence": 0.43,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:53.435884+00:00"
+  },
+  {
+    "message_id": "188983",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188983.jpg",
+    "relative_path": "tikvahpharma\\188983.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "chair",
+        "confidence": 0.427
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.427,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:53.677153+00:00"
+  },
+  {
+    "message_id": "188984",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188984.jpg",
+    "relative_path": "tikvahpharma\\188984.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:53.866179+00:00"
+  },
+  {
+    "message_id": "188985",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188985.jpg",
+    "relative_path": "tikvahpharma\\188985.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "refrigerator",
+        "confidence": 0.91
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.91,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:54.057386+00:00"
+  },
+  {
+    "message_id": "188986",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188986.jpg",
+    "relative_path": "tikvahpharma\\188986.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "refrigerator",
+        "confidence": 0.341
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.251
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.296,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:54.236735+00:00"
+  },
+  {
+    "message_id": "188990",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188990.jpg",
+    "relative_path": "tikvahpharma\\188990.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "book",
+        "confidence": 0.285
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.285,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:54.486653+00:00"
+  },
+  {
+    "message_id": "188991",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188991.jpg",
+    "relative_path": "tikvahpharma\\188991.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "book",
+        "confidence": 0.512
+      },
+      {
+        "class": "book",
+        "confidence": 0.502
+      },
+      {
+        "class": "laptop",
+        "confidence": 0.457
+      },
+      {
+        "class": "book",
+        "confidence": 0.317
+      },
+      {
+        "class": "book",
+        "confidence": 0.285
+      },
+      {
+        "class": "book",
+        "confidence": 0.265
+      }
+    ],
+    "object_count": 6,
+    "avg_confidence": 0.39,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:54.750799+00:00"
+  },
+  {
+    "message_id": "188993",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188993.jpg",
+    "relative_path": "tikvahpharma\\188993.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.716
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.574
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.566
+      },
+      {
+        "class": "refrigerator",
+        "confidence": 0.529
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.524
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.514
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.446
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.435
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.407
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.406
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.392
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.376
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.372
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.328
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.328
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.314
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.307
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.301
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.296
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.287
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.282
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.273
+      }
+    ],
+    "object_count": 22,
+    "avg_confidence": 0.408,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:54.952007+00:00"
+  },
+  {
+    "message_id": "188996",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188996.jpg",
+    "relative_path": "tikvahpharma\\188996.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:55.170001+00:00"
+  },
+  {
+    "message_id": "188997",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188997.jpg",
+    "relative_path": "tikvahpharma\\188997.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.429
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.429,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:55.355786+00:00"
+  },
+  {
+    "message_id": "189002",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189002.jpg",
+    "relative_path": "tikvahpharma\\189002.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.824
+      },
+      {
+        "class": "person",
+        "confidence": 0.767
+      },
+      {
+        "class": "person",
+        "confidence": 0.687
+      },
+      {
+        "class": "clock",
+        "confidence": 0.647
+      }
+    ],
+    "object_count": 4,
+    "avg_confidence": 0.731,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:55.619445+00:00"
+  },
+  {
+    "message_id": "189003",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189003.jpg",
+    "relative_path": "tikvahpharma\\189003.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "clock",
+        "confidence": 0.596
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.596,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:55.861720+00:00"
+  },
+  {
+    "message_id": "189007",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189007.jpg",
+    "relative_path": "tikvahpharma\\189007.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.716
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.574
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.566
+      },
+      {
+        "class": "refrigerator",
+        "confidence": 0.529
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.524
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.514
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.446
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.435
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.407
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.406
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.392
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.376
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.372
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.328
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.328
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.314
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.307
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.301
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.296
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.287
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.282
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.273
+      }
+    ],
+    "object_count": 22,
+    "avg_confidence": 0.408,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:56.066926+00:00"
+  },
+  {
+    "message_id": "189010",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189010.jpg",
+    "relative_path": "tikvahpharma\\189010.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.429
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.429,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:56.270722+00:00"
+  },
+  {
+    "message_id": "189011",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189011.jpg",
+    "relative_path": "tikvahpharma\\189011.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "chair",
+        "confidence": 0.89
+      },
+      {
+        "class": "person",
+        "confidence": 0.861
+      },
+      {
+        "class": "person",
+        "confidence": 0.849
+      },
+      {
+        "class": "keyboard",
+        "confidence": 0.771
+      },
+      {
+        "class": "cup",
+        "confidence": 0.761
+      },
+      {
+        "class": "person",
+        "confidence": 0.736
+      },
+      {
+        "class": "person",
+        "confidence": 0.726
+      },
+      {
+        "class": "tv",
+        "confidence": 0.713
+      },
+      {
+        "class": "mouse",
+        "confidence": 0.654
+      },
+      {
+        "class": "laptop",
+        "confidence": 0.516
+      },
+      {
+        "class": "remote",
+        "confidence": 0.402
+      },
+      {
+        "class": "tv",
+        "confidence": 0.291
+      },
+      {
+        "class": "remote",
+        "confidence": 0.256
+      }
+    ],
+    "object_count": 13,
+    "avg_confidence": 0.648,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:56.499720+00:00"
+  },
+  {
+    "message_id": "189012",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189012.jpg",
+    "relative_path": "tikvahpharma\\189012.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.835
+      },
+      {
+        "class": "person",
+        "confidence": 0.808
+      },
+      {
+        "class": "person",
+        "confidence": 0.787
+      },
+      {
+        "class": "person",
+        "confidence": 0.753
+      },
+      {
+        "class": "person",
+        "confidence": 0.73
+      },
+      {
+        "class": "person",
+        "confidence": 0.722
+      },
+      {
+        "class": "person",
+        "confidence": 0.717
+      },
+      {
+        "class": "person",
+        "confidence": 0.693
+      },
+      {
+        "class": "person",
+        "confidence": 0.676
+      },
+      {
+        "class": "person",
+        "confidence": 0.607
+      },
+      {
+        "class": "person",
+        "confidence": 0.569
+      },
+      {
+        "class": "person",
+        "confidence": 0.549
+      },
+      {
+        "class": "person",
+        "confidence": 0.483
+      },
+      {
+        "class": "person",
+        "confidence": 0.444
+      },
+      {
+        "class": "person",
+        "confidence": 0.335
+      },
+      {
+        "class": "person",
+        "confidence": 0.308
+      }
+    ],
+    "object_count": 16,
+    "avg_confidence": 0.626,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:56.745966+00:00"
+  },
+  {
+    "message_id": "189013",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189013.jpg",
+    "relative_path": "tikvahpharma\\189013.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.904
+      },
+      {
+        "class": "person",
+        "confidence": 0.869
+      },
+      {
+        "class": "person",
+        "confidence": 0.867
+      },
+      {
+        "class": "person",
+        "confidence": 0.856
+      },
+      {
+        "class": "person",
+        "confidence": 0.813
+      },
+      {
+        "class": "person",
+        "confidence": 0.784
+      },
+      {
+        "class": "person",
+        "confidence": 0.765
+      },
+      {
+        "class": "person",
+        "confidence": 0.716
+      },
+      {
+        "class": "person",
+        "confidence": 0.681
+      },
+      {
+        "class": "tennis racket",
+        "confidence": 0.374
+      },
+      {
+        "class": "tennis racket",
+        "confidence": 0.305
+      },
+      {
+        "class": "person",
+        "confidence": 0.268
+      }
+    ],
+    "object_count": 12,
+    "avg_confidence": 0.684,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:56.970222+00:00"
+  },
+  {
+    "message_id": "189014",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189014.jpg",
+    "relative_path": "tikvahpharma\\189014.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.871
+      },
+      {
+        "class": "person",
+        "confidence": 0.845
+      },
+      {
+        "class": "person",
+        "confidence": 0.838
+      },
+      {
+        "class": "person",
+        "confidence": 0.789
+      },
+      {
+        "class": "person",
+        "confidence": 0.77
+      },
+      {
+        "class": "person",
+        "confidence": 0.744
+      },
+      {
+        "class": "person",
+        "confidence": 0.711
+      },
+      {
+        "class": "handbag",
+        "confidence": 0.661
+      },
+      {
+        "class": "person",
+        "confidence": 0.646
+      },
+      {
+        "class": "person",
+        "confidence": 0.622
+      },
+      {
+        "class": "person",
+        "confidence": 0.61
+      },
+      {
+        "class": "person",
+        "confidence": 0.589
+      },
+      {
+        "class": "person",
+        "confidence": 0.545
+      },
+      {
+        "class": "book",
+        "confidence": 0.324
+      },
+      {
+        "class": "person",
+        "confidence": 0.3
+      },
+      {
+        "class": "handbag",
+        "confidence": 0.299
+      },
+      {
+        "class": "handbag",
+        "confidence": 0.287
+      },
+      {
+        "class": "book",
+        "confidence": 0.261
+      }
+    ],
+    "object_count": 18,
+    "avg_confidence": 0.595,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:57.174318+00:00"
+  },
+  {
+    "message_id": "189015",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189015.jpg",
+    "relative_path": "tikvahpharma\\189015.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.852
+      },
+      {
+        "class": "person",
+        "confidence": 0.832
+      },
+      {
+        "class": "person",
+        "confidence": 0.832
+      },
+      {
+        "class": "person",
+        "confidence": 0.801
+      },
+      {
+        "class": "person",
+        "confidence": 0.761
+      },
+      {
+        "class": "person",
+        "confidence": 0.745
+      },
+      {
+        "class": "person",
+        "confidence": 0.716
+      },
+      {
+        "class": "person",
+        "confidence": 0.68
+      },
+      {
+        "class": "person",
+        "confidence": 0.679
+      },
+      {
+        "class": "person",
+        "confidence": 0.668
+      },
+      {
+        "class": "person",
+        "confidence": 0.62
+      },
+      {
+        "class": "person",
+        "confidence": 0.614
+      },
+      {
+        "class": "person",
+        "confidence": 0.534
+      },
+      {
+        "class": "person",
+        "confidence": 0.503
+      },
+      {
+        "class": "person",
+        "confidence": 0.437
+      }
+    ],
+    "object_count": 15,
+    "avg_confidence": 0.685,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:57.403854+00:00"
+  },
+  {
+    "message_id": "189016",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189016.jpg",
+    "relative_path": "tikvahpharma\\189016.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.912
+      },
+      {
+        "class": "person",
+        "confidence": 0.896
+      },
+      {
+        "class": "person",
+        "confidence": 0.894
+      },
+      {
+        "class": "person",
+        "confidence": 0.884
+      },
+      {
+        "class": "person",
+        "confidence": 0.877
+      },
+      {
+        "class": "person",
+        "confidence": 0.861
+      },
+      {
+        "class": "person",
+        "confidence": 0.844
+      },
+      {
+        "class": "person",
+        "confidence": 0.817
+      },
+      {
+        "class": "person",
+        "confidence": 0.739
+      }
+    ],
+    "object_count": 9,
+    "avg_confidence": 0.858,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:57.636595+00:00"
+  },
+  {
+    "message_id": "189017",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189017.jpg",
+    "relative_path": "tikvahpharma\\189017.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.863
+      },
+      {
+        "class": "person",
+        "confidence": 0.837
+      },
+      {
+        "class": "person",
+        "confidence": 0.806
+      },
+      {
+        "class": "tv",
+        "confidence": 0.745
+      },
+      {
+        "class": "remote",
+        "confidence": 0.388
+      },
+      {
+        "class": "chair",
+        "confidence": 0.282
+      }
+    ],
+    "object_count": 6,
+    "avg_confidence": 0.653,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:57.838489+00:00"
+  },
+  {
+    "message_id": "189018",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189018.jpg",
+    "relative_path": "tikvahpharma\\189018.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.842
+      },
+      {
+        "class": "person",
+        "confidence": 0.809
+      },
+      {
+        "class": "person",
+        "confidence": 0.791
+      },
+      {
+        "class": "person",
+        "confidence": 0.761
+      },
+      {
+        "class": "person",
+        "confidence": 0.738
+      }
+    ],
+    "object_count": 5,
+    "avg_confidence": 0.788,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:58.013581+00:00"
+  },
+  {
+    "message_id": "189019",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189019.jpg",
+    "relative_path": "tikvahpharma\\189019.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.912
+      },
+      {
+        "class": "person",
+        "confidence": 0.849
+      },
+      {
+        "class": "person",
+        "confidence": 0.842
+      },
+      {
+        "class": "person",
+        "confidence": 0.582
+      },
+      {
+        "class": "person",
+        "confidence": 0.4
+      },
+      {
+        "class": "teddy bear",
+        "confidence": 0.353
+      }
+    ],
+    "object_count": 6,
+    "avg_confidence": 0.656,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:58.210171+00:00"
+  },
+  {
+    "message_id": "189020",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189020.jpg",
+    "relative_path": "tikvahpharma\\189020.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.925
+      },
+      {
+        "class": "person",
+        "confidence": 0.838
+      },
+      {
+        "class": "person",
+        "confidence": 0.802
+      },
+      {
+        "class": "person",
+        "confidence": 0.797
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.629
+      },
+      {
+        "class": "person",
+        "confidence": 0.598
+      },
+      {
+        "class": "cell phone",
+        "confidence": 0.495
+      },
+      {
+        "class": "person",
+        "confidence": 0.427
+      },
+      {
+        "class": "person",
+        "confidence": 0.427
+      },
+      {
+        "class": "person",
+        "confidence": 0.423
+      },
+      {
+        "class": "person",
+        "confidence": 0.421
+      },
+      {
+        "class": "person",
+        "confidence": 0.417
+      },
+      {
+        "class": "person",
+        "confidence": 0.407
+      },
+      {
+        "class": "cake",
+        "confidence": 0.403
+      },
+      {
+        "class": "person",
+        "confidence": 0.392
+      },
+      {
+        "class": "person",
+        "confidence": 0.352
+      },
+      {
+        "class": "person",
+        "confidence": 0.303
+      }
+    ],
+    "object_count": 17,
+    "avg_confidence": 0.533,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:58.427237+00:00"
+  },
+  {
+    "message_id": "189029",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189029.jpg",
+    "relative_path": "tikvahpharma\\189029.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.429
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.429,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:58.589852+00:00"
+  },
+  {
+    "message_id": "189032",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189032.jpg",
+    "relative_path": "tikvahpharma\\189032.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.67
+      },
+      {
+        "class": "person",
+        "confidence": 0.51
+      },
+      {
+        "class": "person",
+        "confidence": 0.485
+      },
+      {
+        "class": "person",
+        "confidence": 0.403
+      },
+      {
+        "class": "person",
+        "confidence": 0.271
+      }
+    ],
+    "object_count": 5,
+    "avg_confidence": 0.468,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:58.800769+00:00"
+  },
+  {
+    "message_id": "189041",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189041.jpg",
+    "relative_path": "tikvahpharma\\189041.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "book",
+        "confidence": 0.285
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.285,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:59.040557+00:00"
+  },
+  {
+    "message_id": "189042",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189042.jpg",
+    "relative_path": "tikvahpharma\\189042.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "book",
+        "confidence": 0.512
+      },
+      {
+        "class": "book",
+        "confidence": 0.502
+      },
+      {
+        "class": "laptop",
+        "confidence": 0.457
+      },
+      {
+        "class": "book",
+        "confidence": 0.317
+      },
+      {
+        "class": "book",
+        "confidence": 0.285
+      },
+      {
+        "class": "book",
+        "confidence": 0.265
+      }
+    ],
+    "object_count": 6,
+    "avg_confidence": 0.39,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:59.280143+00:00"
+  },
+  {
+    "message_id": "189043",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189043.jpg",
+    "relative_path": "tikvahpharma\\189043.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "airplane",
+        "confidence": 0.55
+      },
+      {
+        "class": "airplane",
+        "confidence": 0.385
+      },
+      {
+        "class": "chair",
+        "confidence": 0.305
+      },
+      {
+        "class": "tv",
+        "confidence": 0.302
+      },
+      {
+        "class": "airplane",
+        "confidence": 0.27
+      }
+    ],
+    "object_count": 5,
+    "avg_confidence": 0.363,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:59.588505+00:00"
+  },
+  {
+    "message_id": "189044",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189044.jpg",
+    "relative_path": "tikvahpharma\\189044.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.429
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.429,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:18:59.793762+00:00"
+  },
+  {
+    "message_id": "22847",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22847.jpg",
+    "relative_path": "lobelia4cosmetics\\22847.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.801
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.801,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:00.005640+00:00"
+  },
+  {
+    "message_id": "22848",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22848.jpg",
+    "relative_path": "lobelia4cosmetics\\22848.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.597
+      },
+      {
+        "class": "person",
+        "confidence": 0.325
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.461,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:00.253281+00:00"
+  },
+  {
+    "message_id": "22849",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22849.jpg",
+    "relative_path": "lobelia4cosmetics\\22849.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:00.483478+00:00"
+  },
+  {
+    "message_id": "22850",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22850.jpg",
+    "relative_path": "lobelia4cosmetics\\22850.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:00.691028+00:00"
+  },
+  {
+    "message_id": "22851",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22851.jpg",
+    "relative_path": "lobelia4cosmetics\\22851.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.588
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.319
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.454,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:00.918240+00:00"
+  },
+  {
+    "message_id": "22852",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22852.jpg",
+    "relative_path": "lobelia4cosmetics\\22852.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:01.112292+00:00"
+  },
+  {
+    "message_id": "22853",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22853.jpg",
+    "relative_path": "lobelia4cosmetics\\22853.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:01.321565+00:00"
+  },
+  {
+    "message_id": "22854",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22854.jpg",
+    "relative_path": "lobelia4cosmetics\\22854.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:01.561846+00:00"
+  },
+  {
+    "message_id": "22855",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22855.jpg",
+    "relative_path": "lobelia4cosmetics\\22855.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:01.768132+00:00"
+  },
+  {
+    "message_id": "22856",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22856.jpg",
+    "relative_path": "lobelia4cosmetics\\22856.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:01.972964+00:00"
+  },
+  {
+    "message_id": "22857",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22857.jpg",
+    "relative_path": "lobelia4cosmetics\\22857.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.502
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.502,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:02.217064+00:00"
+  },
+  {
+    "message_id": "22858",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22858.jpg",
+    "relative_path": "lobelia4cosmetics\\22858.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:02.457047+00:00"
+  },
+  {
+    "message_id": "22859",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22859.jpg",
+    "relative_path": "lobelia4cosmetics\\22859.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.579
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.579,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:02.677106+00:00"
+  },
+  {
+    "message_id": "22860",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22860.jpg",
+    "relative_path": "lobelia4cosmetics\\22860.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.385
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.385,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:02.902932+00:00"
+  },
+  {
+    "message_id": "22861",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22861.jpg",
+    "relative_path": "lobelia4cosmetics\\22861.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.597
+      },
+      {
+        "class": "person",
+        "confidence": 0.325
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.461,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:03.142803+00:00"
+  },
+  {
+    "message_id": "22862",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22862.jpg",
+    "relative_path": "lobelia4cosmetics\\22862.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.932
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.932,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:03.386376+00:00"
+  },
+  {
+    "message_id": "22863",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22863.jpg",
+    "relative_path": "lobelia4cosmetics\\22863.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.904
+      },
+      {
+        "class": "dining table",
+        "confidence": 0.338
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.621,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:03.585910+00:00"
+  },
+  {
+    "message_id": "22864",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22864.jpg",
+    "relative_path": "lobelia4cosmetics\\22864.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "dining table",
+        "confidence": 0.293
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.293,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:03.795534+00:00"
+  },
+  {
+    "message_id": "22865",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22865.jpg",
+    "relative_path": "lobelia4cosmetics\\22865.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.724
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.724,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:03.993709+00:00"
+  },
+  {
+    "message_id": "22866",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22866.jpg",
+    "relative_path": "lobelia4cosmetics\\22866.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:04.217380+00:00"
+  },
+  {
+    "message_id": "22867",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22867.jpg",
+    "relative_path": "lobelia4cosmetics\\22867.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "book",
+        "confidence": 0.275
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.275,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:04.455915+00:00"
+  },
+  {
+    "message_id": "22868",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22868.jpg",
+    "relative_path": "lobelia4cosmetics\\22868.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.28
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.28,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:04.696743+00:00"
+  },
+  {
+    "message_id": "22869",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22869.jpg",
+    "relative_path": "lobelia4cosmetics\\22869.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:05.017103+00:00"
+  },
+  {
+    "message_id": "22870",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22870.jpg",
+    "relative_path": "lobelia4cosmetics\\22870.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.571
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.571,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:05.202710+00:00"
+  },
+  {
+    "message_id": "22871",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22871.jpg",
+    "relative_path": "lobelia4cosmetics\\22871.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "book",
+        "confidence": 0.35
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.263
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.307,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:05.448237+00:00"
+  },
+  {
+    "message_id": "22872",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22872.jpg",
+    "relative_path": "lobelia4cosmetics\\22872.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.916
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.819
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.867,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:05.647685+00:00"
+  },
+  {
+    "message_id": "22873",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22873.jpg",
+    "relative_path": "lobelia4cosmetics\\22873.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.869
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.869,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:05.851462+00:00"
+  },
+  {
+    "message_id": "22874",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22874.jpg",
+    "relative_path": "lobelia4cosmetics\\22874.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "cell phone",
+        "confidence": 0.463
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.463,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:06.037747+00:00"
+  },
+  {
+    "message_id": "22875",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22875.jpg",
+    "relative_path": "lobelia4cosmetics\\22875.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:06.300523+00:00"
+  },
+  {
+    "message_id": "22876",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22876.jpg",
+    "relative_path": "lobelia4cosmetics\\22876.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.571
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.571,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:06.474232+00:00"
+  },
+  {
+    "message_id": "22877",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22877.jpg",
+    "relative_path": "lobelia4cosmetics\\22877.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:06.680786+00:00"
+  },
+  {
+    "message_id": "22878",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22878.jpg",
+    "relative_path": "lobelia4cosmetics\\22878.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:06.865940+00:00"
+  },
+  {
+    "message_id": "22879",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22879.jpg",
+    "relative_path": "lobelia4cosmetics\\22879.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.624
+      },
+      {
+        "class": "surfboard",
+        "confidence": 0.366
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.495,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:07.145442+00:00"
+  },
+  {
+    "message_id": "22880",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22880.jpg",
+    "relative_path": "lobelia4cosmetics\\22880.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:07.388188+00:00"
+  },
+  {
+    "message_id": "22881",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22881.jpg",
+    "relative_path": "lobelia4cosmetics\\22881.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:07.639921+00:00"
+  },
+  {
+    "message_id": "22882",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22882.jpg",
+    "relative_path": "lobelia4cosmetics\\22882.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.831
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.831,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:07.850189+00:00"
+  },
+  {
+    "message_id": "22883",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22883.jpg",
+    "relative_path": "lobelia4cosmetics\\22883.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:08.033289+00:00"
+  },
+  {
+    "message_id": "22884",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22884.jpg",
+    "relative_path": "lobelia4cosmetics\\22884.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "teddy bear",
+        "confidence": 0.318
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.318,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:08.286035+00:00"
+  },
+  {
+    "message_id": "22885",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22885.jpg",
+    "relative_path": "lobelia4cosmetics\\22885.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:08.503773+00:00"
+  },
+  {
+    "message_id": "22886",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22886.jpg",
+    "relative_path": "lobelia4cosmetics\\22886.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:08.713624+00:00"
+  },
+  {
+    "message_id": "22887",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22887.jpg",
+    "relative_path": "lobelia4cosmetics\\22887.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:08.922994+00:00"
+  },
+  {
+    "message_id": "22888",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22888.jpg",
+    "relative_path": "lobelia4cosmetics\\22888.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:09.113544+00:00"
+  },
+  {
+    "message_id": "22889",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22889.jpg",
+    "relative_path": "lobelia4cosmetics\\22889.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.87
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.87,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:09.348526+00:00"
+  },
+  {
+    "message_id": "22890",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22890.jpg",
+    "relative_path": "lobelia4cosmetics\\22890.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.484
+      },
+      {
+        "class": "dining table",
+        "confidence": 0.295
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.389,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:09.540818+00:00"
+  },
+  {
+    "message_id": "22891",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22891.jpg",
+    "relative_path": "lobelia4cosmetics\\22891.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.588
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.319
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.454,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:09.751018+00:00"
+  },
+  {
+    "message_id": "22892",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22892.jpg",
+    "relative_path": "lobelia4cosmetics\\22892.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "parking meter",
+        "confidence": 0.255
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.255,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:09.924649+00:00"
+  },
+  {
+    "message_id": "22893",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22893.jpg",
+    "relative_path": "lobelia4cosmetics\\22893.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.624
+      },
+      {
+        "class": "surfboard",
+        "confidence": 0.366
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.495,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:10.161981+00:00"
+  },
+  {
+    "message_id": "22894",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22894.jpg",
+    "relative_path": "lobelia4cosmetics\\22894.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.679
+      },
+      {
+        "class": "stop sign",
+        "confidence": 0.272
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.475,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:10.384744+00:00"
+  },
+  {
+    "message_id": "22895",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22895.jpg",
+    "relative_path": "lobelia4cosmetics\\22895.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:10.620198+00:00"
+  },
+  {
+    "message_id": "22896",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22896.jpg",
+    "relative_path": "lobelia4cosmetics\\22896.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.655
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.638
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.619
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.608
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.605
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.593
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.588
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.569
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.568
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.562
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.537
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.52
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.505
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.491
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.49
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.49
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.486
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.442
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.439
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.389
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.34
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.324
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.315
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.297
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.285
+      }
+    ],
+    "object_count": 25,
+    "avg_confidence": 0.494,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:10.872780+00:00"
+  },
+  {
+    "message_id": "22897",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22897.jpg",
+    "relative_path": "lobelia4cosmetics\\22897.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.855
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.798
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.776
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.67
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.624
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.57
+      }
+    ],
+    "object_count": 6,
+    "avg_confidence": 0.716,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:11.117280+00:00"
+  },
+  {
+    "message_id": "22898",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22898.jpg",
+    "relative_path": "lobelia4cosmetics\\22898.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "suitcase",
+        "confidence": 0.322
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.322,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:11.468218+00:00"
+  },
+  {
+    "message_id": "22899",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22899.jpg",
+    "relative_path": "lobelia4cosmetics\\22899.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "oven",
+        "confidence": 0.253
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.253,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:11.679493+00:00"
+  },
+  {
+    "message_id": "22900",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22900.jpg",
+    "relative_path": "lobelia4cosmetics\\22900.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:11.920503+00:00"
+  },
+  {
+    "message_id": "22901",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22901.jpg",
+    "relative_path": "lobelia4cosmetics\\22901.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.519
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.519,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:12.123078+00:00"
+  },
+  {
+    "message_id": "22902",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22902.jpg",
+    "relative_path": "lobelia4cosmetics\\22902.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:12.315792+00:00"
+  },
+  {
+    "message_id": "22903",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22903.jpg",
+    "relative_path": "lobelia4cosmetics\\22903.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:12.553130+00:00"
+  },
+  {
+    "message_id": "22904",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22904.jpg",
+    "relative_path": "lobelia4cosmetics\\22904.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.588
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.319
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.454,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:12.772266+00:00"
+  },
+  {
+    "message_id": "22905",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22905.jpg",
+    "relative_path": "lobelia4cosmetics\\22905.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:12.979424+00:00"
+  },
+  {
+    "message_id": "22906",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22906.jpg",
+    "relative_path": "lobelia4cosmetics\\22906.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:13.180495+00:00"
+  },
+  {
+    "message_id": "22907",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22907.jpg",
+    "relative_path": "lobelia4cosmetics\\22907.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "refrigerator",
+        "confidence": 0.482
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.482,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:13.372034+00:00"
+  },
+  {
+    "message_id": "22908",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22908.jpg",
+    "relative_path": "lobelia4cosmetics\\22908.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "orange",
+        "confidence": 0.69
+      },
+      {
+        "class": "orange",
+        "confidence": 0.598
+      },
+      {
+        "class": "apple",
+        "confidence": 0.342
+      },
+      {
+        "class": "cup",
+        "confidence": 0.272
+      }
+    ],
+    "object_count": 4,
+    "avg_confidence": 0.476,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:13.615817+00:00"
+  },
+  {
+    "message_id": "22909",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22909.jpg",
+    "relative_path": "lobelia4cosmetics\\22909.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "parking meter",
+        "confidence": 0.255
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.255,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:13.799626+00:00"
+  },
+  {
+    "message_id": "22910",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22910.jpg",
+    "relative_path": "lobelia4cosmetics\\22910.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:14.003764+00:00"
+  },
+  {
+    "message_id": "22911",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22911.jpg",
+    "relative_path": "lobelia4cosmetics\\22911.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.571
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.571,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:14.193043+00:00"
+  },
+  {
+    "message_id": "22912",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22912.jpg",
+    "relative_path": "lobelia4cosmetics\\22912.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:14.446215+00:00"
+  },
+  {
+    "message_id": "22913",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22913.jpg",
+    "relative_path": "lobelia4cosmetics\\22913.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:14.629861+00:00"
+  },
+  {
+    "message_id": "22914",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22914.jpg",
+    "relative_path": "lobelia4cosmetics\\22914.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.502
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.502,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:14.877680+00:00"
+  },
+  {
+    "message_id": "22915",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22915.jpg",
+    "relative_path": "lobelia4cosmetics\\22915.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "cell phone",
+        "confidence": 0.32
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.32,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.072096+00:00"
+  },
+  {
+    "message_id": "22916",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22916.jpg",
+    "relative_path": "lobelia4cosmetics\\22916.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.624
+      },
+      {
+        "class": "surfboard",
+        "confidence": 0.366
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.495,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.169538+00:00"
+  },
+  {
+    "message_id": "22917",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22917.jpg",
+    "relative_path": "lobelia4cosmetics\\22917.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.679
+      },
+      {
+        "class": "stop sign",
+        "confidence": 0.272
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.475,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.239260+00:00"
+  },
+  {
+    "message_id": "22918",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22918.jpg",
+    "relative_path": "lobelia4cosmetics\\22918.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "clock",
+        "confidence": 0.27
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.27,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.309947+00:00"
+  },
+  {
+    "message_id": "22919",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22919.jpg",
+    "relative_path": "lobelia4cosmetics\\22919.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "cake",
+        "confidence": 0.549
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.549,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.371558+00:00"
+  },
+  {
+    "message_id": "22920",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22920.jpg",
+    "relative_path": "lobelia4cosmetics\\22920.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.902
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.902,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.433181+00:00"
+  },
+  {
+    "message_id": "22921",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22921.jpg",
+    "relative_path": "lobelia4cosmetics\\22921.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.816
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.463
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.64,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.497388+00:00"
+  },
+  {
+    "message_id": "22922",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22922.jpg",
+    "relative_path": "lobelia4cosmetics\\22922.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.351
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.351,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.558175+00:00"
+  },
+  {
+    "message_id": "22923",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22923.jpg",
+    "relative_path": "lobelia4cosmetics\\22923.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.612246+00:00"
+  },
+  {
+    "message_id": "22924",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22924.jpg",
+    "relative_path": "lobelia4cosmetics\\22924.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.675544+00:00"
+  },
+  {
+    "message_id": "22925",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22925.jpg",
+    "relative_path": "lobelia4cosmetics\\22925.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.738733+00:00"
+  },
+  {
+    "message_id": "22926",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22926.jpg",
+    "relative_path": "lobelia4cosmetics\\22926.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.796894+00:00"
+  },
+  {
+    "message_id": "22927",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22927.jpg",
+    "relative_path": "lobelia4cosmetics\\22927.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.848139+00:00"
+  },
+  {
+    "message_id": "22928",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22928.jpg",
+    "relative_path": "lobelia4cosmetics\\22928.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.87
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.87,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.922134+00:00"
+  },
+  {
+    "message_id": "22929",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22929.jpg",
+    "relative_path": "lobelia4cosmetics\\22929.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.484
+      },
+      {
+        "class": "dining table",
+        "confidence": 0.295
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.389,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:15.977320+00:00"
+  },
+  {
+    "message_id": "22930",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22930.jpg",
+    "relative_path": "lobelia4cosmetics\\22930.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "parking meter",
+        "confidence": 0.255
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.255,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.024683+00:00"
+  },
+  {
+    "message_id": "22931",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22931.jpg",
+    "relative_path": "lobelia4cosmetics\\22931.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.624
+      },
+      {
+        "class": "surfboard",
+        "confidence": 0.366
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.495,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.098058+00:00"
+  },
+  {
+    "message_id": "22932",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22932.jpg",
+    "relative_path": "lobelia4cosmetics\\22932.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.171583+00:00"
+  },
+  {
+    "message_id": "22933",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22933.jpg",
+    "relative_path": "lobelia4cosmetics\\22933.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.244199+00:00"
+  },
+  {
+    "message_id": "22934",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22934.jpg",
+    "relative_path": "lobelia4cosmetics\\22934.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.588
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.319
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.454,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.306802+00:00"
+  },
+  {
+    "message_id": "22935",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22935.jpg",
+    "relative_path": "lobelia4cosmetics\\22935.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.365360+00:00"
+  },
+  {
+    "message_id": "22936",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22936.jpg",
+    "relative_path": "lobelia4cosmetics\\22936.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "refrigerator",
+        "confidence": 0.482
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.482,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.413202+00:00"
+  },
+  {
+    "message_id": "22937",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22937.jpg",
+    "relative_path": "lobelia4cosmetics\\22937.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "orange",
+        "confidence": 0.69
+      },
+      {
+        "class": "orange",
+        "confidence": 0.598
+      },
+      {
+        "class": "apple",
+        "confidence": 0.342
+      },
+      {
+        "class": "cup",
+        "confidence": 0.272
+      }
+    ],
+    "object_count": 4,
+    "avg_confidence": 0.476,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.486357+00:00"
+  },
+  {
+    "message_id": "22938",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22938.jpg",
+    "relative_path": "lobelia4cosmetics\\22938.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.545277+00:00"
+  },
+  {
+    "message_id": "22939",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22939.jpg",
+    "relative_path": "lobelia4cosmetics\\22939.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "clock",
+        "confidence": 0.27
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.27,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.605234+00:00"
+  },
+  {
+    "message_id": "22940",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22940.jpg",
+    "relative_path": "lobelia4cosmetics\\22940.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.422
+      },
+      {
+        "class": "apple",
+        "confidence": 0.309
+      },
+      {
+        "class": "apple",
+        "confidence": 0.282
+      }
+    ],
+    "object_count": 3,
+    "avg_confidence": 0.338,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.667128+00:00"
+  },
+  {
+    "message_id": "22941",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22941.jpg",
+    "relative_path": "lobelia4cosmetics\\22941.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.933
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.933,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.725867+00:00"
+  },
+  {
+    "message_id": "22942",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22942.jpg",
+    "relative_path": "lobelia4cosmetics\\22942.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.902
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.902,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.785223+00:00"
+  },
+  {
+    "message_id": "22943",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22943.jpg",
+    "relative_path": "lobelia4cosmetics\\22943.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.816
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.463
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.64,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.843987+00:00"
+  },
+  {
+    "message_id": "22944",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22944.jpg",
+    "relative_path": "lobelia4cosmetics\\22944.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.351
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.351,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.902921+00:00"
+  },
+  {
+    "message_id": "22945",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22945.jpg",
+    "relative_path": "lobelia4cosmetics\\22945.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:16.956984+00:00"
+  },
+  {
+    "message_id": "22946",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\lobelia4cosmetics\\22946.jpg",
+    "relative_path": "lobelia4cosmetics\\22946.jpg",
+    "subdirectory": "lobelia4cosmetics",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:17.017877+00:00"
+  },
+  {
+    "message_id": "188920",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188920.jpg",
+    "relative_path": "tikvahpharma\\188920.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "cell phone",
+        "confidence": 0.43
+      },
+      {
+        "class": "person",
+        "confidence": 0.253
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.341,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:17.083127+00:00"
+  },
+  {
+    "message_id": "188926",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188926.jpg",
+    "relative_path": "tikvahpharma\\188926.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "vase",
+        "confidence": 0.497
+      },
+      {
+        "class": "vase",
+        "confidence": 0.392
+      },
+      {
+        "class": "vase",
+        "confidence": 0.337
+      },
+      {
+        "class": "vase",
+        "confidence": 0.315
+      },
+      {
+        "class": "vase",
+        "confidence": 0.267
+      }
+    ],
+    "object_count": 5,
+    "avg_confidence": 0.362,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:17.142356+00:00"
+  },
+  {
+    "message_id": "188927",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188927.jpg",
+    "relative_path": "tikvahpharma\\188927.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:17.200592+00:00"
+  },
+  {
+    "message_id": "188931",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188931.jpg",
+    "relative_path": "tikvahpharma\\188931.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:17.277401+00:00"
+  },
+  {
+    "message_id": "188936",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188936.jpg",
+    "relative_path": "tikvahpharma\\188936.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:17.348093+00:00"
+  },
+  {
+    "message_id": "188938",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188938.jpg",
+    "relative_path": "tikvahpharma\\188938.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "vase",
+        "confidence": 0.497
+      },
+      {
+        "class": "vase",
+        "confidence": 0.392
+      },
+      {
+        "class": "vase",
+        "confidence": 0.337
+      },
+      {
+        "class": "vase",
+        "confidence": 0.315
+      },
+      {
+        "class": "vase",
+        "confidence": 0.267
+      }
+    ],
+    "object_count": 5,
+    "avg_confidence": 0.362,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:17.427082+00:00"
+  },
+  {
+    "message_id": "188940",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188940.jpg",
+    "relative_path": "tikvahpharma\\188940.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:17.504535+00:00"
+  },
+  {
+    "message_id": "188941",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188941.jpg",
+    "relative_path": "tikvahpharma\\188941.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:17.597897+00:00"
+  },
+  {
+    "message_id": "188942",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188942.jpg",
+    "relative_path": "tikvahpharma\\188942.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "scissors",
+        "confidence": 0.907
+      },
+      {
+        "class": "scissors",
+        "confidence": 0.627
+      },
+      {
+        "class": "scissors",
+        "confidence": 0.558
+      }
+    ],
+    "object_count": 3,
+    "avg_confidence": 0.697,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:17.683533+00:00"
+  },
+  {
+    "message_id": "188954",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188954.jpg",
+    "relative_path": "tikvahpharma\\188954.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "sports ball",
+        "confidence": 0.8
+      },
+      {
+        "class": "person",
+        "confidence": 0.729
+      },
+      {
+        "class": "scissors",
+        "confidence": 0.46
+      },
+      {
+        "class": "person",
+        "confidence": 0.302
+      }
+    ],
+    "object_count": 4,
+    "avg_confidence": 0.573,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:17.786597+00:00"
+  },
+  {
+    "message_id": "188960",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188960.jpg",
+    "relative_path": "tikvahpharma\\188960.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:17.871632+00:00"
+  },
+  {
+    "message_id": "188962",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188962.jpg",
+    "relative_path": "tikvahpharma\\188962.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.716
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.574
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.566
+      },
+      {
+        "class": "refrigerator",
+        "confidence": 0.529
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.524
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.514
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.446
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.435
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.407
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.406
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.392
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.376
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.372
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.328
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.328
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.314
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.307
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.301
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.296
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.287
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.282
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.273
+      }
+    ],
+    "object_count": 22,
+    "avg_confidence": 0.408,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:17.951852+00:00"
+  },
+  {
+    "message_id": "188970",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188970.jpg",
+    "relative_path": "tikvahpharma\\188970.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.779
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.779,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:18.026606+00:00"
+  },
+  {
+    "message_id": "188973",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188973.jpg",
+    "relative_path": "tikvahpharma\\188973.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:18.093664+00:00"
+  },
+  {
+    "message_id": "188975",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188975.jpg",
+    "relative_path": "tikvahpharma\\188975.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.67
+      },
+      {
+        "class": "person",
+        "confidence": 0.51
+      },
+      {
+        "class": "person",
+        "confidence": 0.485
+      },
+      {
+        "class": "person",
+        "confidence": 0.403
+      },
+      {
+        "class": "person",
+        "confidence": 0.271
+      }
+    ],
+    "object_count": 5,
+    "avg_confidence": 0.468,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:18.178765+00:00"
+  },
+  {
+    "message_id": "188979",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188979.jpg",
+    "relative_path": "tikvahpharma\\188979.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.375
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.375,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:18.248176+00:00"
+  },
+  {
+    "message_id": "188981",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188981.jpg",
+    "relative_path": "tikvahpharma\\188981.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.408
+      },
+      {
+        "class": "refrigerator",
+        "confidence": 0.374
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.304
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.289
+      }
+    ],
+    "object_count": 4,
+    "avg_confidence": 0.344,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:18.340927+00:00"
+  },
+  {
+    "message_id": "188982",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188982.jpg",
+    "relative_path": "tikvahpharma\\188982.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.833
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.778
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.741
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.701
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.667
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.654
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.62
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.613
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.571
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.567
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.554
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.552
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.535
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.499
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.481
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.479
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.465
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.46
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.457
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.445
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.438
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.435
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.413
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.402
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.4
+      },
+      {
+        "class": "person",
+        "confidence": 0.391
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.381
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.38
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.355
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.345
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.331
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.329
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.328
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.327
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.326
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.326
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.323
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.322
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.322
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.317
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.317
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.311
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.298
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.29
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.285
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.277
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.27
+      },
+      {
+        "class": "person",
+        "confidence": 0.266
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.26
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.259
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.251
+      }
+    ],
+    "object_count": 51,
+    "avg_confidence": 0.43,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:18.419198+00:00"
+  },
+  {
+    "message_id": "188983",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188983.jpg",
+    "relative_path": "tikvahpharma\\188983.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "chair",
+        "confidence": 0.427
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.427,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:18.488668+00:00"
+  },
+  {
+    "message_id": "188984",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188984.jpg",
+    "relative_path": "tikvahpharma\\188984.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:18.547688+00:00"
+  },
+  {
+    "message_id": "188985",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188985.jpg",
+    "relative_path": "tikvahpharma\\188985.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "refrigerator",
+        "confidence": 0.91
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.91,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:18.603581+00:00"
+  },
+  {
+    "message_id": "188986",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188986.jpg",
+    "relative_path": "tikvahpharma\\188986.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "refrigerator",
+        "confidence": 0.341
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.251
+      }
+    ],
+    "object_count": 2,
+    "avg_confidence": 0.296,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:18.664798+00:00"
+  },
+  {
+    "message_id": "188990",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188990.jpg",
+    "relative_path": "tikvahpharma\\188990.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "book",
+        "confidence": 0.285
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.285,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:18.750924+00:00"
+  },
+  {
+    "message_id": "188991",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188991.jpg",
+    "relative_path": "tikvahpharma\\188991.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "book",
+        "confidence": 0.512
+      },
+      {
+        "class": "book",
+        "confidence": 0.502
+      },
+      {
+        "class": "laptop",
+        "confidence": 0.457
+      },
+      {
+        "class": "book",
+        "confidence": 0.317
+      },
+      {
+        "class": "book",
+        "confidence": 0.285
+      },
+      {
+        "class": "book",
+        "confidence": 0.265
+      }
+    ],
+    "object_count": 6,
+    "avg_confidence": 0.39,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:18.844032+00:00"
+  },
+  {
+    "message_id": "188993",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188993.jpg",
+    "relative_path": "tikvahpharma\\188993.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.716
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.574
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.566
+      },
+      {
+        "class": "refrigerator",
+        "confidence": 0.529
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.524
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.514
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.446
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.435
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.407
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.406
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.392
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.376
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.372
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.328
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.328
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.314
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.307
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.301
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.296
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.287
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.282
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.273
+      }
+    ],
+    "object_count": 22,
+    "avg_confidence": 0.408,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:18.968409+00:00"
+  },
+  {
+    "message_id": "188996",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188996.jpg",
+    "relative_path": "tikvahpharma\\188996.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [],
+    "object_count": 0,
+    "avg_confidence": 0.0,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:19.190813+00:00"
+  },
+  {
+    "message_id": "188997",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\188997.jpg",
+    "relative_path": "tikvahpharma\\188997.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.429
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.429,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:19.361596+00:00"
+  },
+  {
+    "message_id": "189002",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189002.jpg",
+    "relative_path": "tikvahpharma\\189002.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.824
+      },
+      {
+        "class": "person",
+        "confidence": 0.767
+      },
+      {
+        "class": "person",
+        "confidence": 0.687
+      },
+      {
+        "class": "clock",
+        "confidence": 0.647
+      }
+    ],
+    "object_count": 4,
+    "avg_confidence": 0.731,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:19.560397+00:00"
+  },
+  {
+    "message_id": "189003",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189003.jpg",
+    "relative_path": "tikvahpharma\\189003.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "clock",
+        "confidence": 0.596
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.596,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:19.756153+00:00"
+  },
+  {
+    "message_id": "189007",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189007.jpg",
+    "relative_path": "tikvahpharma\\189007.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "bottle",
+        "confidence": 0.716
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.574
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.566
+      },
+      {
+        "class": "refrigerator",
+        "confidence": 0.529
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.524
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.514
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.446
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.435
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.407
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.406
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.392
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.376
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.372
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.328
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.328
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.314
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.307
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.301
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.296
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.287
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.282
+      },
+      {
+        "class": "bottle",
+        "confidence": 0.273
+      }
+    ],
+    "object_count": 22,
+    "avg_confidence": 0.408,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:19.950841+00:00"
+  },
+  {
+    "message_id": "189010",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189010.jpg",
+    "relative_path": "tikvahpharma\\189010.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.429
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.429,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:20.113802+00:00"
+  },
+  {
+    "message_id": "189011",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189011.jpg",
+    "relative_path": "tikvahpharma\\189011.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "chair",
+        "confidence": 0.89
+      },
+      {
+        "class": "person",
+        "confidence": 0.861
+      },
+      {
+        "class": "person",
+        "confidence": 0.849
+      },
+      {
+        "class": "keyboard",
+        "confidence": 0.771
+      },
+      {
+        "class": "cup",
+        "confidence": 0.761
+      },
+      {
+        "class": "person",
+        "confidence": 0.736
+      },
+      {
+        "class": "person",
+        "confidence": 0.726
+      },
+      {
+        "class": "tv",
+        "confidence": 0.713
+      },
+      {
+        "class": "mouse",
+        "confidence": 0.654
+      },
+      {
+        "class": "laptop",
+        "confidence": 0.516
+      },
+      {
+        "class": "remote",
+        "confidence": 0.402
+      },
+      {
+        "class": "tv",
+        "confidence": 0.291
+      },
+      {
+        "class": "remote",
+        "confidence": 0.256
+      }
+    ],
+    "object_count": 13,
+    "avg_confidence": 0.648,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:20.321986+00:00"
+  },
+  {
+    "message_id": "189012",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189012.jpg",
+    "relative_path": "tikvahpharma\\189012.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.835
+      },
+      {
+        "class": "person",
+        "confidence": 0.808
+      },
+      {
+        "class": "person",
+        "confidence": 0.787
+      },
+      {
+        "class": "person",
+        "confidence": 0.753
+      },
+      {
+        "class": "person",
+        "confidence": 0.73
+      },
+      {
+        "class": "person",
+        "confidence": 0.722
+      },
+      {
+        "class": "person",
+        "confidence": 0.717
+      },
+      {
+        "class": "person",
+        "confidence": 0.693
+      },
+      {
+        "class": "person",
+        "confidence": 0.676
+      },
+      {
+        "class": "person",
+        "confidence": 0.607
+      },
+      {
+        "class": "person",
+        "confidence": 0.569
+      },
+      {
+        "class": "person",
+        "confidence": 0.549
+      },
+      {
+        "class": "person",
+        "confidence": 0.483
+      },
+      {
+        "class": "person",
+        "confidence": 0.444
+      },
+      {
+        "class": "person",
+        "confidence": 0.335
+      },
+      {
+        "class": "person",
+        "confidence": 0.308
+      }
+    ],
+    "object_count": 16,
+    "avg_confidence": 0.626,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:20.530759+00:00"
+  },
+  {
+    "message_id": "189013",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189013.jpg",
+    "relative_path": "tikvahpharma\\189013.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.904
+      },
+      {
+        "class": "person",
+        "confidence": 0.869
+      },
+      {
+        "class": "person",
+        "confidence": 0.867
+      },
+      {
+        "class": "person",
+        "confidence": 0.856
+      },
+      {
+        "class": "person",
+        "confidence": 0.813
+      },
+      {
+        "class": "person",
+        "confidence": 0.784
+      },
+      {
+        "class": "person",
+        "confidence": 0.765
+      },
+      {
+        "class": "person",
+        "confidence": 0.716
+      },
+      {
+        "class": "person",
+        "confidence": 0.681
+      },
+      {
+        "class": "tennis racket",
+        "confidence": 0.374
+      },
+      {
+        "class": "tennis racket",
+        "confidence": 0.305
+      },
+      {
+        "class": "person",
+        "confidence": 0.268
+      }
+    ],
+    "object_count": 12,
+    "avg_confidence": 0.684,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:20.750446+00:00"
+  },
+  {
+    "message_id": "189014",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189014.jpg",
+    "relative_path": "tikvahpharma\\189014.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.871
+      },
+      {
+        "class": "person",
+        "confidence": 0.845
+      },
+      {
+        "class": "person",
+        "confidence": 0.838
+      },
+      {
+        "class": "person",
+        "confidence": 0.789
+      },
+      {
+        "class": "person",
+        "confidence": 0.77
+      },
+      {
+        "class": "person",
+        "confidence": 0.744
+      },
+      {
+        "class": "person",
+        "confidence": 0.711
+      },
+      {
+        "class": "handbag",
+        "confidence": 0.661
+      },
+      {
+        "class": "person",
+        "confidence": 0.646
+      },
+      {
+        "class": "person",
+        "confidence": 0.622
+      },
+      {
+        "class": "person",
+        "confidence": 0.61
+      },
+      {
+        "class": "person",
+        "confidence": 0.589
+      },
+      {
+        "class": "person",
+        "confidence": 0.545
+      },
+      {
+        "class": "book",
+        "confidence": 0.324
+      },
+      {
+        "class": "person",
+        "confidence": 0.3
+      },
+      {
+        "class": "handbag",
+        "confidence": 0.299
+      },
+      {
+        "class": "handbag",
+        "confidence": 0.287
+      },
+      {
+        "class": "book",
+        "confidence": 0.261
+      }
+    ],
+    "object_count": 18,
+    "avg_confidence": 0.595,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:20.977692+00:00"
+  },
+  {
+    "message_id": "189015",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189015.jpg",
+    "relative_path": "tikvahpharma\\189015.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.852
+      },
+      {
+        "class": "person",
+        "confidence": 0.832
+      },
+      {
+        "class": "person",
+        "confidence": 0.832
+      },
+      {
+        "class": "person",
+        "confidence": 0.801
+      },
+      {
+        "class": "person",
+        "confidence": 0.761
+      },
+      {
+        "class": "person",
+        "confidence": 0.745
+      },
+      {
+        "class": "person",
+        "confidence": 0.716
+      },
+      {
+        "class": "person",
+        "confidence": 0.68
+      },
+      {
+        "class": "person",
+        "confidence": 0.679
+      },
+      {
+        "class": "person",
+        "confidence": 0.668
+      },
+      {
+        "class": "person",
+        "confidence": 0.62
+      },
+      {
+        "class": "person",
+        "confidence": 0.614
+      },
+      {
+        "class": "person",
+        "confidence": 0.534
+      },
+      {
+        "class": "person",
+        "confidence": 0.503
+      },
+      {
+        "class": "person",
+        "confidence": 0.437
+      }
+    ],
+    "object_count": 15,
+    "avg_confidence": 0.685,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:21.193214+00:00"
+  },
+  {
+    "message_id": "189016",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189016.jpg",
+    "relative_path": "tikvahpharma\\189016.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.912
+      },
+      {
+        "class": "person",
+        "confidence": 0.896
+      },
+      {
+        "class": "person",
+        "confidence": 0.894
+      },
+      {
+        "class": "person",
+        "confidence": 0.884
+      },
+      {
+        "class": "person",
+        "confidence": 0.877
+      },
+      {
+        "class": "person",
+        "confidence": 0.861
+      },
+      {
+        "class": "person",
+        "confidence": 0.844
+      },
+      {
+        "class": "person",
+        "confidence": 0.817
+      },
+      {
+        "class": "person",
+        "confidence": 0.739
+      }
+    ],
+    "object_count": 9,
+    "avg_confidence": 0.858,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:21.432150+00:00"
+  },
+  {
+    "message_id": "189017",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189017.jpg",
+    "relative_path": "tikvahpharma\\189017.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.863
+      },
+      {
+        "class": "person",
+        "confidence": 0.837
+      },
+      {
+        "class": "person",
+        "confidence": 0.806
+      },
+      {
+        "class": "tv",
+        "confidence": 0.745
+      },
+      {
+        "class": "remote",
+        "confidence": 0.388
+      },
+      {
+        "class": "chair",
+        "confidence": 0.282
+      }
+    ],
+    "object_count": 6,
+    "avg_confidence": 0.653,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:21.656398+00:00"
+  },
+  {
+    "message_id": "189018",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189018.jpg",
+    "relative_path": "tikvahpharma\\189018.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.842
+      },
+      {
+        "class": "person",
+        "confidence": 0.809
+      },
+      {
+        "class": "person",
+        "confidence": 0.791
+      },
+      {
+        "class": "person",
+        "confidence": 0.761
+      },
+      {
+        "class": "person",
+        "confidence": 0.738
+      }
+    ],
+    "object_count": 5,
+    "avg_confidence": 0.788,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:21.848204+00:00"
+  },
+  {
+    "message_id": "189019",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189019.jpg",
+    "relative_path": "tikvahpharma\\189019.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.912
+      },
+      {
+        "class": "person",
+        "confidence": 0.849
+      },
+      {
+        "class": "person",
+        "confidence": 0.842
+      },
+      {
+        "class": "person",
+        "confidence": 0.582
+      },
+      {
+        "class": "person",
+        "confidence": 0.4
+      },
+      {
+        "class": "teddy bear",
+        "confidence": 0.353
+      }
+    ],
+    "object_count": 6,
+    "avg_confidence": 0.656,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:22.030464+00:00"
+  },
+  {
+    "message_id": "189020",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189020.jpg",
+    "relative_path": "tikvahpharma\\189020.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.925
+      },
+      {
+        "class": "person",
+        "confidence": 0.838
+      },
+      {
+        "class": "person",
+        "confidence": 0.802
+      },
+      {
+        "class": "person",
+        "confidence": 0.797
+      },
+      {
+        "class": "potted plant",
+        "confidence": 0.629
+      },
+      {
+        "class": "person",
+        "confidence": 0.598
+      },
+      {
+        "class": "cell phone",
+        "confidence": 0.495
+      },
+      {
+        "class": "person",
+        "confidence": 0.427
+      },
+      {
+        "class": "person",
+        "confidence": 0.427
+      },
+      {
+        "class": "person",
+        "confidence": 0.423
+      },
+      {
+        "class": "person",
+        "confidence": 0.421
+      },
+      {
+        "class": "person",
+        "confidence": 0.417
+      },
+      {
+        "class": "person",
+        "confidence": 0.407
+      },
+      {
+        "class": "cake",
+        "confidence": 0.403
+      },
+      {
+        "class": "person",
+        "confidence": 0.392
+      },
+      {
+        "class": "person",
+        "confidence": 0.352
+      },
+      {
+        "class": "person",
+        "confidence": 0.303
+      }
+    ],
+    "object_count": 17,
+    "avg_confidence": 0.533,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:22.243731+00:00"
+  },
+  {
+    "message_id": "189029",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189029.jpg",
+    "relative_path": "tikvahpharma\\189029.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.429
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.429,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:22.409061+00:00"
+  },
+  {
+    "message_id": "189032",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189032.jpg",
+    "relative_path": "tikvahpharma\\189032.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.67
+      },
+      {
+        "class": "person",
+        "confidence": 0.51
+      },
+      {
+        "class": "person",
+        "confidence": 0.485
+      },
+      {
+        "class": "person",
+        "confidence": 0.403
+      },
+      {
+        "class": "person",
+        "confidence": 0.271
+      }
+    ],
+    "object_count": 5,
+    "avg_confidence": 0.468,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:22.617895+00:00"
+  },
+  {
+    "message_id": "189041",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189041.jpg",
+    "relative_path": "tikvahpharma\\189041.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "book",
+        "confidence": 0.285
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.285,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:22.842980+00:00"
+  },
+  {
+    "message_id": "189042",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189042.jpg",
+    "relative_path": "tikvahpharma\\189042.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "book",
+        "confidence": 0.512
+      },
+      {
+        "class": "book",
+        "confidence": 0.502
+      },
+      {
+        "class": "laptop",
+        "confidence": 0.457
+      },
+      {
+        "class": "book",
+        "confidence": 0.317
+      },
+      {
+        "class": "book",
+        "confidence": 0.285
+      },
+      {
+        "class": "book",
+        "confidence": 0.265
+      }
+    ],
+    "object_count": 6,
+    "avg_confidence": 0.39,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:23.071602+00:00"
+  },
+  {
+    "message_id": "189043",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189043.jpg",
+    "relative_path": "tikvahpharma\\189043.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "airplane",
+        "confidence": 0.55
+      },
+      {
+        "class": "airplane",
+        "confidence": 0.385
+      },
+      {
+        "class": "chair",
+        "confidence": 0.305
+      },
+      {
+        "class": "tv",
+        "confidence": 0.302
+      },
+      {
+        "class": "airplane",
+        "confidence": 0.27
+      }
+    ],
+    "object_count": 5,
+    "avg_confidence": 0.363,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:23.355971+00:00"
+  },
+  {
+    "message_id": "189044",
+    "image_path": "C:\\Users\\yoga\\code\\10_Academy\\week_8\\data\\raw\\images\\tikvahpharma\\189044.jpg",
+    "relative_path": "tikvahpharma\\189044.jpg",
+    "subdirectory": "tikvahpharma",
+    "detected_objects": [
+      {
+        "class": "person",
+        "confidence": 0.429
+      }
+    ],
+    "object_count": 1,
+    "avg_confidence": 0.429,
+    "model_version": "yolov8n.pt",
+    "processed_at": "2026-01-20T17:19:23.529502+00:00"
+  }
+]

@@ -20,8 +20,8 @@ channel_stats as (
 )
 
 select
-    -- Surrogate Key
-    {{ dbt_utils.surrogate_key(['channel_name']) }} as channel_key,
+    -- Surrogate Key - UPDATED to use generate_surrogate_key
+    {{ dbt_utils.generate_surrogate_key(['channel_name']) }} as channel_key,
     
     channel_name,
     

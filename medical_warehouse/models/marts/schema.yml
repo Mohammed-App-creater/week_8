@@ -40,3 +40,39 @@ models:
         tests:
           - unique
           - not_null
+
+  - name: fct_image_detections
+    description: Fact table for YOLOv8 image detections enriched with message context.
+    columns:
+      - name: message_id
+        description: Foreign key to fct_messages
+        tests:
+          - not_null
+      - name: channel_key
+        description: Foreign key to dim_channels
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_channels')
+              field: channel_key
+      - name: date_key
+        description: Foreign key to dim_dates
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_dates')
+              field: date_key
+      - name: detected_class
+        description: Object class detected by YOLO
+        tests:
+          - not_null
+      - name: confidence_score
+        description: Detection confidence score (0-1)
+        tests:
+          - not_null
+      - name: image_category
+        description: Business category derived from detected_class
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['promotional', 'product_display', 'other']
