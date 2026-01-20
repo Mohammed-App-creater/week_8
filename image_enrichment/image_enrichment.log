@@ -1,0 +1,450 @@
+2026-01-20 19:25:18,540 - __main__ - INFO - Loading YOLOv8 model: yolov8s.pt
+2026-01-20 19:25:59,199 - __main__ - INFO - Model loaded successfully. Classes: 80
+2026-01-20 19:25:59,199 - __main__ - INFO - ============================================================
+2026-01-20 19:25:59,200 - __main__ - INFO - Starting YOLOv8 Image Enrichment Pipeline
+2026-01-20 19:25:59,200 - __main__ - INFO - ============================================================
+2026-01-20 19:25:59,201 - __main__ - ERROR - Images directory not found: data\raw\images
+2026-01-20 19:25:59,201 - __main__ - WARNING - No detection records to save
+2026-01-20 19:25:59,216 - __main__ - INFO - ============================================================
+2026-01-20 19:25:59,216 - __main__ - INFO - Pipeline execution complete
+2026-01-20 19:25:59,217 - __main__ - INFO - ============================================================
+2026-01-20 19:29:20,450 - __main__ - INFO - Loading YOLOv8 model: yolov8s.pt
+2026-01-20 19:29:20,504 - __main__ - INFO - Model loaded successfully. Classes: 80
+2026-01-20 19:29:20,504 - __main__ - INFO - ============================================================
+2026-01-20 19:29:20,506 - __main__ - INFO - Starting YOLOv8 Image Enrichment Pipeline
+2026-01-20 19:29:20,506 - __main__ - INFO - ============================================================
+2026-01-20 19:29:20,506 - __main__ - ERROR - Images directory not found: data\raw\images
+2026-01-20 19:29:20,506 - __main__ - WARNING - No detection records to save
+2026-01-20 19:29:20,506 - __main__ - INFO - ============================================================
+2026-01-20 19:29:20,506 - __main__ - INFO - Pipeline execution complete
+2026-01-20 19:29:20,507 - __main__ - INFO - ============================================================
+2026-01-20 19:29:59,464 - __main__ - INFO - Loading YOLOv8 model: yolov8s.pt
+2026-01-20 19:29:59,519 - __main__ - INFO - Model loaded successfully. Classes: 80
+2026-01-20 19:29:59,519 - __main__ - INFO - ============================================================
+2026-01-20 19:29:59,520 - __main__ - INFO - Starting YOLOv8 Image Enrichment Pipeline
+2026-01-20 19:29:59,520 - __main__ - INFO - ============================================================
+2026-01-20 19:29:59,521 - __main__ - ERROR - Images directory not found: data\raw\images
+2026-01-20 19:29:59,521 - __main__ - WARNING - No detection records to save
+2026-01-20 19:29:59,521 - __main__ - INFO - ============================================================
+2026-01-20 19:29:59,521 - __main__ - INFO - Pipeline execution complete
+2026-01-20 19:29:59,521 - __main__ - INFO - ============================================================
+2026-01-20 19:31:14,363 - __main__ - INFO - Loading YOLOv8 model: yolov8s.pt
+2026-01-20 19:31:14,363 - __main__ - INFO - Images directory: data/raw/images
+2026-01-20 19:31:14,415 - __main__ - INFO - Model loaded successfully. Classes: 80
+2026-01-20 19:31:14,415 - __main__ - INFO - ============================================================
+2026-01-20 19:31:14,417 - __main__ - INFO - Starting YOLOv8 Image Enrichment Pipeline
+2026-01-20 19:31:14,417 - __main__ - INFO - ============================================================
+2026-01-20 19:31:14,417 - __main__ - ERROR - Images directory not found: data\raw\images
+2026-01-20 19:31:14,417 - __main__ - WARNING - No detection records to save
+2026-01-20 19:31:14,418 - __main__ - INFO - ============================================================
+2026-01-20 19:31:14,418 - __main__ - INFO - Pipeline execution complete
+2026-01-20 19:31:14,418 - __main__ - INFO - ============================================================
+2026-01-20 19:31:52,579 - __main__ - INFO - Loading YOLOv8 model: yolov8s.pt
+2026-01-20 19:31:52,579 - __main__ - INFO - Images directory: data/raw/images
+2026-01-20 19:31:52,634 - __main__ - INFO - Model loaded successfully. Classes: 80
+2026-01-20 19:31:52,634 - __main__ - INFO - ============================================================
+2026-01-20 19:31:52,634 - __main__ - INFO - Starting YOLOv8 Image Enrichment Pipeline
+2026-01-20 19:31:52,636 - __main__ - INFO - ============================================================
+2026-01-20 19:31:52,636 - __main__ - ERROR - Images directory not found: data\raw\images
+2026-01-20 19:31:52,636 - __main__ - WARNING - No detection records to save
+2026-01-20 19:31:52,636 - __main__ - INFO - ============================================================
+2026-01-20 19:31:52,636 - __main__ - INFO - Pipeline execution complete
+2026-01-20 19:31:52,636 - __main__ - INFO - ============================================================
+2026-01-20 19:34:14,614 - __main__ - INFO - Loading YOLOv8 model: yolov8s.pt
+2026-01-20 19:34:14,614 - __main__ - INFO - Images directory: data/raw/images
+2026-01-20 19:34:14,674 - __main__ - INFO - Model loaded successfully. Classes: 80
+2026-01-20 19:34:14,675 - __main__ - INFO - ============================================================
+2026-01-20 19:34:14,675 - __main__ - INFO - Starting YOLOv8 Image Enrichment Pipeline
+2026-01-20 19:34:14,675 - __main__ - INFO - ============================================================
+2026-01-20 19:34:14,675 - __main__ - ERROR - Images directory not found: data\raw\images
+2026-01-20 19:34:14,675 - __main__ - WARNING - No detection records to save
+2026-01-20 19:34:14,675 - __main__ - INFO - ============================================================
+2026-01-20 19:34:14,675 - __main__ - INFO - Pipeline execution complete
+2026-01-20 19:34:14,676 - __main__ - INFO - ============================================================
+2026-01-20 19:37:57,734 - __main__ - INFO - Loading YOLOv8 model: yolov8s.pt
+2026-01-20 19:37:57,734 - __main__ - INFO - Images directory: data/raw/images
+2026-01-20 19:37:57,793 - __main__ - INFO - Model loaded successfully. Classes: 80
+2026-01-20 19:37:57,793 - __main__ - INFO - ============================================================
+2026-01-20 19:37:57,794 - __main__ - INFO - Starting YOLOv8 Image Enrichment Pipeline
+2026-01-20 19:37:57,794 - __main__ - INFO - ============================================================
+2026-01-20 19:37:57,794 - __main__ - ERROR - Images directory not found: data\raw\images
+2026-01-20 19:37:57,794 - __main__ - WARNING - No detection records to save
+2026-01-20 19:37:57,794 - __main__ - INFO - ============================================================
+2026-01-20 19:37:57,794 - __main__ - INFO - Pipeline execution complete
+2026-01-20 19:37:57,794 - __main__ - INFO - ============================================================
+2026-01-20 19:38:30,048 - __main__ - INFO - Loading YOLOv8 model: yolov8s.pt
+2026-01-20 19:38:30,048 - __main__ - INFO - Images directory: data/raw/images
+2026-01-20 19:38:30,109 - __main__ - INFO - Model loaded successfully. Classes: 80
+2026-01-20 19:38:30,109 - __main__ - INFO - ============================================================
+2026-01-20 19:38:30,109 - __main__ - INFO - Starting YOLOv8 Image Enrichment Pipeline
+2026-01-20 19:38:30,109 - __main__ - INFO - ============================================================
+2026-01-20 19:38:30,110 - __main__ - ERROR - Images directory not found: data\raw\images
+2026-01-20 19:38:30,110 - __main__ - WARNING - No detection records to save
+2026-01-20 19:38:30,110 - __main__ - INFO - ============================================================
+2026-01-20 19:38:30,111 - __main__ - INFO - Pipeline execution complete
+2026-01-20 19:38:30,111 - __main__ - INFO - ============================================================
+2026-01-20 19:39:47,687 - __main__ - INFO - Loading YOLOv8 model: yolov8s.pt
+2026-01-20 19:39:47,688 - __main__ - INFO - Images directory: data/raw/images
+2026-01-20 19:39:47,741 - __main__ - INFO - Model loaded successfully. Classes: 80
+2026-01-20 19:39:47,741 - __main__ - INFO - ============================================================
+2026-01-20 19:39:47,742 - __main__ - INFO - Starting YOLOv8 Image Enrichment Pipeline
+2026-01-20 19:39:47,742 - __main__ - INFO - ============================================================
+2026-01-20 19:39:47,742 - __main__ - ERROR - Images directory not found: data\raw\images
+2026-01-20 19:39:47,742 - __main__ - WARNING - No detection records to save
+2026-01-20 19:39:47,742 - __main__ - INFO - ============================================================
+2026-01-20 19:39:47,742 - __main__ - INFO - Pipeline execution complete
+2026-01-20 19:39:47,743 - __main__ - INFO - ============================================================
+2026-01-20 21:35:26,936 - __main__ - INFO - Project root: C:\Users\yoga\code\10_Academy\week_8
+2026-01-20 21:35:26,936 - __main__ - INFO - Images directory: C:\Users\yoga\code\10_Academy\week_8\data\raw\images
+2026-01-20 21:35:26,938 - __main__ - INFO - Images directory exists: True
+2026-01-20 21:35:26,938 - __main__ - INFO - Output file: C:\Users\yoga\code\10_Academy\week_8\image_enrichment\outputs\image_detections.json
+2026-01-20 21:35:26,938 - __main__ - INFO - Images directory: C:\Users\yoga\code\10_Academy\week_8\data\raw\images
+2026-01-20 21:35:26,938 - __main__ - INFO - Images directory exists: True
+2026-01-20 21:35:26,938 - __main__ - INFO - Found 2 subdirectories:
+2026-01-20 21:35:26,942 - __main__ - INFO -   - lobelia4cosmetics: 100 images
+2026-01-20 21:35:26,944 - __main__ - INFO -   - tikvahpharma: 47 images
+2026-01-20 21:35:26,944 - __main__ - INFO - Loading YOLOv8 model: yolov8n.pt
+2026-01-20 21:35:49,895 - __main__ - INFO - Model loaded successfully. Classes: 80
+2026-01-20 21:35:49,895 - __main__ - INFO - ============================================================
+2026-01-20 21:35:49,897 - __main__ - INFO - Starting YOLOv8 Image Enrichment Pipeline
+2026-01-20 21:35:49,898 - __main__ - INFO - ============================================================
+2026-01-20 21:35:49,898 - __main__ - INFO - Searching for images in: C:\Users\yoga\code\10_Academy\week_8\data\raw\images
+2026-01-20 21:35:50,074 - __main__ - INFO - Found 294 images in total (including subdirectories)
+2026-01-20 21:35:50,074 - __main__ - INFO - Sample image paths (relative to images_dir):
+2026-01-20 21:35:50,075 - __main__ - INFO -   - lobelia4cosmetics\22847.jpg
+2026-01-20 21:35:50,077 - __main__ - INFO -   - lobelia4cosmetics\22848.jpg
+2026-01-20 21:35:50,078 - __main__ - INFO -   - lobelia4cosmetics\22849.jpg
+2026-01-20 21:35:50,078 - __main__ - INFO -   - lobelia4cosmetics\22850.jpg
+2026-01-20 21:35:50,079 - __main__ - INFO -   - lobelia4cosmetics\22851.jpg
+2026-01-20 21:35:50,080 - __main__ - INFO -   ... and 289 more
+2026-01-20 21:35:50,084 - __main__ - INFO - Processing: lobelia4cosmetics\22847.jpg
+2026-01-20 21:35:50,392 - __main__ - INFO - Processing: lobelia4cosmetics\22848.jpg
+2026-01-20 21:35:50,538 - __main__ - INFO - Processing: lobelia4cosmetics\22849.jpg
+2026-01-20 21:35:50,701 - __main__ - INFO - Processing: lobelia4cosmetics\22850.jpg
+2026-01-20 21:35:50,832 - __main__ - INFO - Processing: lobelia4cosmetics\22851.jpg
+2026-01-20 21:35:51,007 - __main__ - INFO - Processing: lobelia4cosmetics\22852.jpg
+2026-01-20 21:35:51,146 - __main__ - INFO - Processing: lobelia4cosmetics\22853.jpg
+2026-01-20 21:35:51,281 - __main__ - INFO - Processing: lobelia4cosmetics\22854.jpg
+2026-01-20 21:35:51,436 - __main__ - INFO - Processing: lobelia4cosmetics\22855.jpg
+2026-01-20 21:35:51,558 - __main__ - INFO - Processing: lobelia4cosmetics\22856.jpg
+2026-01-20 21:35:51,690 - __main__ - INFO - Progress: 10/294 images processed
+2026-01-20 21:35:51,690 - __main__ - INFO - Processing: lobelia4cosmetics\22857.jpg
+2026-01-20 21:35:51,838 - __main__ - INFO - Processing: lobelia4cosmetics\22858.jpg
+2026-01-20 21:35:51,986 - __main__ - INFO - Processing: lobelia4cosmetics\22859.jpg
+2026-01-20 21:35:52,115 - __main__ - INFO - Processing: lobelia4cosmetics\22860.jpg
+2026-01-20 21:35:52,244 - __main__ - INFO - Processing: lobelia4cosmetics\22861.jpg
+2026-01-20 21:35:52,405 - __main__ - INFO - Processing: lobelia4cosmetics\22862.jpg
+2026-01-20 21:35:52,553 - __main__ - INFO - Processing: lobelia4cosmetics\22863.jpg
+2026-01-20 21:35:52,679 - __main__ - INFO - Processing: lobelia4cosmetics\22864.jpg
+2026-01-20 21:35:52,815 - __main__ - INFO - Processing: lobelia4cosmetics\22865.jpg
+2026-01-20 21:35:52,947 - __main__ - INFO - Processing: lobelia4cosmetics\22866.jpg
+2026-01-20 21:35:53,113 - __main__ - INFO - Progress: 20/294 images processed
+2026-01-20 21:35:53,114 - __main__ - INFO - Processing: lobelia4cosmetics\22867.jpg
+2026-01-20 21:35:53,266 - __main__ - INFO - Processing: lobelia4cosmetics\22868.jpg
+2026-01-20 21:35:53,414 - __main__ - INFO - Processing: lobelia4cosmetics\22869.jpg
+2026-01-20 21:35:53,596 - __main__ - INFO - Processing: lobelia4cosmetics\22870.jpg
+2026-01-20 21:35:53,740 - __main__ - INFO - Processing: lobelia4cosmetics\22871.jpg
+2026-01-20 21:35:53,891 - __main__ - INFO - Processing: lobelia4cosmetics\22872.jpg
+2026-01-20 21:35:54,012 - __main__ - INFO - Processing: lobelia4cosmetics\22873.jpg
+2026-01-20 21:35:54,127 - __main__ - INFO - Processing: lobelia4cosmetics\22874.jpg
+2026-01-20 21:35:54,229 - __main__ - INFO - Processing: lobelia4cosmetics\22875.jpg
+2026-01-20 21:35:54,381 - __main__ - INFO - Processing: lobelia4cosmetics\22876.jpg
+2026-01-20 21:35:54,488 - __main__ - INFO - Progress: 30/294 images processed
+2026-01-20 21:35:54,488 - __main__ - INFO - Processing: lobelia4cosmetics\22877.jpg
+2026-01-20 21:35:54,615 - __main__ - INFO - Processing: lobelia4cosmetics\22878.jpg
+2026-01-20 21:35:54,718 - __main__ - INFO - Processing: lobelia4cosmetics\22879.jpg
+2026-01-20 21:35:54,886 - __main__ - INFO - Processing: lobelia4cosmetics\22880.jpg
+2026-01-20 21:35:55,035 - __main__ - INFO - Processing: lobelia4cosmetics\22881.jpg
+2026-01-20 21:35:55,190 - __main__ - INFO - Processing: lobelia4cosmetics\22882.jpg
+2026-01-20 21:35:55,326 - __main__ - INFO - Processing: lobelia4cosmetics\22883.jpg
+2026-01-20 21:35:55,435 - __main__ - INFO - Processing: lobelia4cosmetics\22884.jpg
+2026-01-20 21:35:55,586 - __main__ - INFO - Processing: lobelia4cosmetics\22885.jpg
+2026-01-20 21:35:55,728 - __main__ - INFO - Processing: lobelia4cosmetics\22886.jpg
+2026-01-20 21:35:55,893 - __main__ - INFO - Progress: 40/294 images processed
+2026-01-20 21:35:55,894 - __main__ - INFO - Processing: lobelia4cosmetics\22887.jpg
+2026-01-20 21:35:56,024 - __main__ - INFO - Processing: lobelia4cosmetics\22888.jpg
+2026-01-20 21:35:56,138 - __main__ - INFO - Processing: lobelia4cosmetics\22889.jpg
+2026-01-20 21:35:56,284 - __main__ - INFO - Processing: lobelia4cosmetics\22890.jpg
+2026-01-20 21:35:56,397 - __main__ - INFO - Processing: lobelia4cosmetics\22891.jpg
+2026-01-20 21:35:56,535 - __main__ - INFO - Processing: lobelia4cosmetics\22892.jpg
+2026-01-20 21:35:56,637 - __main__ - INFO - Processing: lobelia4cosmetics\22893.jpg
+2026-01-20 21:35:56,778 - __main__ - INFO - Processing: lobelia4cosmetics\22894.jpg
+2026-01-20 21:35:56,937 - __main__ - INFO - Processing: lobelia4cosmetics\22895.jpg
+2026-01-20 21:35:57,101 - __main__ - INFO - Processing: lobelia4cosmetics\22896.jpg
+2026-01-20 21:35:57,257 - __main__ - INFO - Progress: 50/294 images processed
+2026-01-20 21:35:57,258 - __main__ - INFO - Processing: lobelia4cosmetics\22897.jpg
+2026-01-20 21:35:57,411 - __main__ - INFO - Processing: lobelia4cosmetics\22898.jpg
+2026-01-20 21:35:57,541 - __main__ - INFO - Processing: lobelia4cosmetics\22899.jpg
+2026-01-20 21:35:57,674 - __main__ - INFO - Processing: lobelia4cosmetics\22900.jpg
+2026-01-20 21:35:57,818 - __main__ - INFO - Processing: lobelia4cosmetics\22901.jpg
+2026-01-20 21:35:57,941 - __main__ - INFO - Processing: lobelia4cosmetics\22902.jpg
+2026-01-20 21:35:58,061 - __main__ - INFO - Processing: lobelia4cosmetics\22903.jpg
+2026-01-20 21:35:58,205 - __main__ - INFO - Processing: lobelia4cosmetics\22904.jpg
+2026-01-20 21:35:58,338 - __main__ - INFO - Processing: lobelia4cosmetics\22905.jpg
+2026-01-20 21:35:58,467 - __main__ - INFO - Processing: lobelia4cosmetics\22906.jpg
+2026-01-20 21:35:58,585 - __main__ - INFO - Progress: 60/294 images processed
+2026-01-20 21:35:58,586 - __main__ - INFO - Processing: lobelia4cosmetics\22907.jpg
+2026-01-20 21:35:58,714 - __main__ - INFO - Processing: lobelia4cosmetics\22908.jpg
+2026-01-20 21:35:58,874 - __main__ - INFO - Processing: lobelia4cosmetics\22909.jpg
+2026-01-20 21:35:58,999 - __main__ - INFO - Processing: lobelia4cosmetics\22910.jpg
+2026-01-20 21:35:59,126 - __main__ - INFO - Processing: lobelia4cosmetics\22911.jpg
+2026-01-20 21:35:59,238 - __main__ - INFO - Processing: lobelia4cosmetics\22912.jpg
+2026-01-20 21:35:59,393 - __main__ - INFO - Processing: lobelia4cosmetics\22913.jpg
+2026-01-20 21:35:59,512 - __main__ - INFO - Processing: lobelia4cosmetics\22914.jpg
+2026-01-20 21:35:59,674 - __main__ - INFO - Processing: lobelia4cosmetics\22915.jpg
+2026-01-20 21:35:59,838 - __main__ - INFO - Processing: lobelia4cosmetics\22916.jpg
+2026-01-20 21:36:00,005 - __main__ - INFO - Progress: 70/294 images processed
+2026-01-20 21:36:00,005 - __main__ - INFO - Processing: lobelia4cosmetics\22917.jpg
+2026-01-20 21:36:00,162 - __main__ - INFO - Processing: lobelia4cosmetics\22918.jpg
+2026-01-20 21:36:00,307 - __main__ - INFO - Processing: lobelia4cosmetics\22919.jpg
+2026-01-20 21:36:00,423 - __main__ - INFO - Processing: lobelia4cosmetics\22920.jpg
+2026-01-20 21:36:00,562 - __main__ - INFO - Processing: lobelia4cosmetics\22921.jpg
+2026-01-20 21:36:00,700 - __main__ - INFO - Processing: lobelia4cosmetics\22922.jpg
+2026-01-20 21:36:00,833 - __main__ - INFO - Processing: lobelia4cosmetics\22923.jpg
+2026-01-20 21:36:00,963 - __main__ - INFO - Processing: lobelia4cosmetics\22924.jpg
+2026-01-20 21:36:01,088 - __main__ - INFO - Processing: lobelia4cosmetics\22925.jpg
+2026-01-20 21:36:01,217 - __main__ - INFO - Processing: lobelia4cosmetics\22926.jpg
+2026-01-20 21:36:01,341 - __main__ - INFO - Progress: 80/294 images processed
+2026-01-20 21:36:01,341 - __main__ - INFO - Processing: lobelia4cosmetics\22927.jpg
+2026-01-20 21:36:01,463 - __main__ - INFO - Processing: lobelia4cosmetics\22928.jpg
+2026-01-20 21:36:01,635 - __main__ - INFO - Processing: lobelia4cosmetics\22929.jpg
+2026-01-20 21:36:01,756 - __main__ - INFO - Processing: lobelia4cosmetics\22930.jpg
+2026-01-20 21:36:01,857 - __main__ - INFO - Processing: lobelia4cosmetics\22931.jpg
+2026-01-20 21:36:02,001 - __main__ - INFO - Processing: lobelia4cosmetics\22932.jpg
+2026-01-20 21:36:02,146 - __main__ - INFO - Processing: lobelia4cosmetics\22933.jpg
+2026-01-20 21:36:02,294 - __main__ - INFO - Processing: lobelia4cosmetics\22934.jpg
+2026-01-20 21:36:02,420 - __main__ - INFO - Processing: lobelia4cosmetics\22935.jpg
+2026-01-20 21:36:02,537 - __main__ - INFO - Processing: lobelia4cosmetics\22936.jpg
+2026-01-20 21:36:02,633 - __main__ - INFO - Progress: 90/294 images processed
+2026-01-20 21:36:02,633 - __main__ - INFO - Processing: lobelia4cosmetics\22937.jpg
+2026-01-20 21:36:02,779 - __main__ - INFO - Processing: lobelia4cosmetics\22938.jpg
+2026-01-20 21:36:03,001 - __main__ - INFO - Processing: lobelia4cosmetics\22939.jpg
+2026-01-20 21:36:03,130 - __main__ - INFO - Processing: lobelia4cosmetics\22940.jpg
+2026-01-20 21:36:03,261 - __main__ - INFO - Processing: lobelia4cosmetics\22941.jpg
+2026-01-20 21:36:03,392 - __main__ - INFO - Processing: lobelia4cosmetics\22942.jpg
+2026-01-20 21:36:03,523 - __main__ - INFO - Processing: lobelia4cosmetics\22943.jpg
+2026-01-20 21:36:03,669 - __main__ - INFO - Processing: lobelia4cosmetics\22944.jpg
+2026-01-20 21:36:03,798 - __main__ - INFO - Processing: lobelia4cosmetics\22945.jpg
+2026-01-20 21:36:03,926 - __main__ - INFO - Processing: lobelia4cosmetics\22946.jpg
+2026-01-20 21:36:04,053 - __main__ - INFO - Progress: 100/294 images processed
+2026-01-20 21:36:04,054 - __main__ - INFO - Processing: tikvahpharma\188920.jpg
+2026-01-20 21:36:04,188 - __main__ - INFO - Processing: tikvahpharma\188926.jpg
+2026-01-20 21:36:04,337 - __main__ - INFO - Processing: tikvahpharma\188927.jpg
+2026-01-20 21:36:04,476 - __main__ - INFO - Processing: tikvahpharma\188931.jpg
+2026-01-20 21:36:04,636 - __main__ - INFO - Processing: tikvahpharma\188936.jpg
+2026-01-20 21:36:04,777 - __main__ - INFO - Processing: tikvahpharma\188938.jpg
+2026-01-20 21:36:04,925 - __main__ - INFO - Processing: tikvahpharma\188940.jpg
+2026-01-20 21:36:05,068 - __main__ - INFO - Processing: tikvahpharma\188941.jpg
+2026-01-20 21:36:05,229 - __main__ - INFO - Processing: tikvahpharma\188942.jpg
+2026-01-20 21:36:05,388 - __main__ - INFO - Processing: tikvahpharma\188954.jpg
+2026-01-20 21:36:05,547 - __main__ - INFO - Progress: 110/294 images processed
+2026-01-20 21:36:05,547 - __main__ - INFO - Processing: tikvahpharma\188960.jpg
+2026-01-20 21:36:05,689 - __main__ - INFO - Processing: tikvahpharma\188962.jpg
+2026-01-20 21:36:05,829 - __main__ - INFO - Processing: tikvahpharma\188970.jpg
+2026-01-20 21:36:05,952 - __main__ - INFO - Processing: tikvahpharma\188973.jpg
+2026-01-20 21:36:06,065 - __main__ - INFO - Processing: tikvahpharma\188975.jpg
+2026-01-20 21:36:06,204 - __main__ - INFO - Processing: tikvahpharma\188979.jpg
+2026-01-20 21:36:06,336 - __main__ - INFO - Processing: tikvahpharma\188981.jpg
+2026-01-20 21:36:06,475 - __main__ - INFO - Processing: tikvahpharma\188982.jpg
+2026-01-20 21:36:06,625 - __main__ - INFO - Processing: tikvahpharma\188983.jpg
+2026-01-20 21:36:06,750 - __main__ - INFO - Processing: tikvahpharma\188984.jpg
+2026-01-20 21:36:06,855 - __main__ - INFO - Progress: 120/294 images processed
+2026-01-20 21:36:06,856 - __main__ - INFO - Processing: tikvahpharma\188985.jpg
+2026-01-20 21:36:06,976 - __main__ - INFO - Processing: tikvahpharma\188986.jpg
+2026-01-20 21:36:07,080 - __main__ - INFO - Processing: tikvahpharma\188990.jpg
+2026-01-20 21:36:07,226 - __main__ - INFO - Processing: tikvahpharma\188991.jpg
+2026-01-20 21:36:07,379 - __main__ - INFO - Processing: tikvahpharma\188993.jpg
+2026-01-20 21:36:07,507 - __main__ - INFO - Processing: tikvahpharma\188996.jpg
+2026-01-20 21:36:07,660 - __main__ - INFO - Processing: tikvahpharma\188997.jpg
+2026-01-20 21:36:07,786 - __main__ - INFO - Processing: tikvahpharma\189002.jpg
+2026-01-20 21:36:07,950 - __main__ - INFO - Processing: tikvahpharma\189003.jpg
+2026-01-20 21:36:08,108 - __main__ - INFO - Processing: tikvahpharma\189007.jpg
+2026-01-20 21:36:08,252 - __main__ - INFO - Progress: 130/294 images processed
+2026-01-20 21:36:08,253 - __main__ - INFO - Processing: tikvahpharma\189010.jpg
+2026-01-20 21:36:08,377 - __main__ - INFO - Processing: tikvahpharma\189011.jpg
+2026-01-20 21:36:08,521 - __main__ - INFO - Processing: tikvahpharma\189012.jpg
+2026-01-20 21:36:08,665 - __main__ - INFO - Processing: tikvahpharma\189013.jpg
+2026-01-20 21:36:08,812 - __main__ - INFO - Processing: tikvahpharma\189014.jpg
+2026-01-20 21:36:08,951 - __main__ - INFO - Processing: tikvahpharma\189015.jpg
+2026-01-20 21:36:09,107 - __main__ - INFO - Processing: tikvahpharma\189016.jpg
+2026-01-20 21:36:09,253 - __main__ - INFO - Processing: tikvahpharma\189017.jpg
+2026-01-20 21:36:09,384 - __main__ - INFO - Processing: tikvahpharma\189018.jpg
+2026-01-20 21:36:09,509 - __main__ - INFO - Processing: tikvahpharma\189019.jpg
+2026-01-20 21:36:09,636 - __main__ - INFO - Progress: 140/294 images processed
+2026-01-20 21:36:09,638 - __main__ - INFO - Processing: tikvahpharma\189020.jpg
+2026-01-20 21:36:09,770 - __main__ - INFO - Processing: tikvahpharma\189029.jpg
+2026-01-20 21:36:09,867 - __main__ - INFO - Processing: tikvahpharma\189032.jpg
+2026-01-20 21:36:09,996 - __main__ - INFO - Processing: tikvahpharma\189041.jpg
+2026-01-20 21:36:10,128 - __main__ - INFO - Processing: tikvahpharma\189042.jpg
+2026-01-20 21:36:10,286 - __main__ - INFO - Processing: tikvahpharma\189043.jpg
+2026-01-20 21:36:10,474 - __main__ - INFO - Processing: tikvahpharma\189044.jpg
+2026-01-20 21:36:10,574 - __main__ - INFO - Processing: lobelia4cosmetics\22847.jpg
+2026-01-20 21:36:10,713 - __main__ - INFO - Processing: lobelia4cosmetics\22848.jpg
+2026-01-20 21:36:10,860 - __main__ - INFO - Processing: lobelia4cosmetics\22849.jpg
+2026-01-20 21:36:11,019 - __main__ - INFO - Progress: 150/294 images processed
+2026-01-20 21:36:11,020 - __main__ - INFO - Processing: lobelia4cosmetics\22850.jpg
+2026-01-20 21:36:11,145 - __main__ - INFO - Processing: lobelia4cosmetics\22851.jpg
+2026-01-20 21:36:11,275 - __main__ - INFO - Processing: lobelia4cosmetics\22852.jpg
+2026-01-20 21:36:11,384 - __main__ - INFO - Processing: lobelia4cosmetics\22853.jpg
+2026-01-20 21:36:11,501 - __main__ - INFO - Processing: lobelia4cosmetics\22854.jpg
+2026-01-20 21:36:11,646 - __main__ - INFO - Processing: lobelia4cosmetics\22855.jpg
+2026-01-20 21:36:11,773 - __main__ - INFO - Processing: lobelia4cosmetics\22856.jpg
+2026-01-20 21:36:11,890 - __main__ - INFO - Processing: lobelia4cosmetics\22857.jpg
+2026-01-20 21:36:12,030 - __main__ - INFO - Processing: lobelia4cosmetics\22858.jpg
+2026-01-20 21:36:12,174 - __main__ - INFO - Processing: lobelia4cosmetics\22859.jpg
+2026-01-20 21:36:12,302 - __main__ - INFO - Progress: 160/294 images processed
+2026-01-20 21:36:12,303 - __main__ - INFO - Processing: lobelia4cosmetics\22860.jpg
+2026-01-20 21:36:12,434 - __main__ - INFO - Processing: lobelia4cosmetics\22861.jpg
+2026-01-20 21:36:12,598 - __main__ - INFO - Processing: lobelia4cosmetics\22862.jpg
+2026-01-20 21:36:12,756 - __main__ - INFO - Processing: lobelia4cosmetics\22863.jpg
+2026-01-20 21:36:12,875 - __main__ - INFO - Processing: lobelia4cosmetics\22864.jpg
+2026-01-20 21:36:12,993 - __main__ - INFO - Processing: lobelia4cosmetics\22865.jpg
+2026-01-20 21:36:13,113 - __main__ - INFO - Processing: lobelia4cosmetics\22866.jpg
+2026-01-20 21:36:13,276 - __main__ - INFO - Processing: lobelia4cosmetics\22867.jpg
+2026-01-20 21:36:13,447 - __main__ - INFO - Processing: lobelia4cosmetics\22868.jpg
+2026-01-20 21:36:13,589 - __main__ - INFO - Processing: lobelia4cosmetics\22869.jpg
+2026-01-20 21:36:13,788 - __main__ - INFO - Progress: 170/294 images processed
+2026-01-20 21:36:13,790 - __main__ - INFO - Processing: lobelia4cosmetics\22870.jpg
+2026-01-20 21:36:13,902 - __main__ - INFO - Processing: lobelia4cosmetics\22871.jpg
+2026-01-20 21:36:14,070 - __main__ - INFO - Processing: lobelia4cosmetics\22872.jpg
+2026-01-20 21:36:14,211 - __main__ - INFO - Processing: lobelia4cosmetics\22873.jpg
+2026-01-20 21:36:14,352 - __main__ - INFO - Processing: lobelia4cosmetics\22874.jpg
+2026-01-20 21:36:14,477 - __main__ - INFO - Processing: lobelia4cosmetics\22875.jpg
+2026-01-20 21:36:14,650 - __main__ - INFO - Processing: lobelia4cosmetics\22876.jpg
+2026-01-20 21:36:14,777 - __main__ - INFO - Processing: lobelia4cosmetics\22877.jpg
+2026-01-20 21:36:14,924 - __main__ - INFO - Processing: lobelia4cosmetics\22878.jpg
+2026-01-20 21:36:15,047 - __main__ - INFO - Processing: lobelia4cosmetics\22879.jpg
+2026-01-20 21:36:15,231 - __main__ - INFO - Progress: 180/294 images processed
+2026-01-20 21:36:15,231 - __main__ - INFO - Processing: lobelia4cosmetics\22880.jpg
+2026-01-20 21:36:15,388 - __main__ - INFO - Processing: lobelia4cosmetics\22881.jpg
+2026-01-20 21:36:15,563 - __main__ - INFO - Processing: lobelia4cosmetics\22882.jpg
+2026-01-20 21:36:15,703 - __main__ - INFO - Processing: lobelia4cosmetics\22883.jpg
+2026-01-20 21:36:15,830 - __main__ - INFO - Processing: lobelia4cosmetics\22884.jpg
+2026-01-20 21:36:16,005 - __main__ - INFO - Processing: lobelia4cosmetics\22885.jpg
+2026-01-20 21:36:16,143 - __main__ - INFO - Processing: lobelia4cosmetics\22886.jpg
+2026-01-20 21:36:16,276 - __main__ - INFO - Processing: lobelia4cosmetics\22887.jpg
+2026-01-20 21:36:16,408 - __main__ - INFO - Processing: lobelia4cosmetics\22888.jpg
+2026-01-20 21:36:16,522 - __main__ - INFO - Processing: lobelia4cosmetics\22889.jpg
+2026-01-20 21:36:16,676 - __main__ - INFO - Progress: 190/294 images processed
+2026-01-20 21:36:16,676 - __main__ - INFO - Processing: lobelia4cosmetics\22890.jpg
+2026-01-20 21:36:16,813 - __main__ - INFO - Processing: lobelia4cosmetics\22891.jpg
+2026-01-20 21:36:16,943 - __main__ - INFO - Processing: lobelia4cosmetics\22892.jpg
+2026-01-20 21:36:17,045 - __main__ - INFO - Processing: lobelia4cosmetics\22893.jpg
+2026-01-20 21:36:17,194 - __main__ - INFO - Processing: lobelia4cosmetics\22894.jpg
+2026-01-20 21:36:17,327 - __main__ - INFO - Processing: lobelia4cosmetics\22895.jpg
+2026-01-20 21:36:17,462 - __main__ - INFO - Processing: lobelia4cosmetics\22896.jpg
+2026-01-20 21:36:17,606 - __main__ - INFO - Processing: lobelia4cosmetics\22897.jpg
+2026-01-20 21:36:17,768 - __main__ - INFO - Processing: lobelia4cosmetics\22898.jpg
+2026-01-20 21:36:17,889 - __main__ - INFO - Processing: lobelia4cosmetics\22899.jpg
+2026-01-20 21:36:18,009 - __main__ - INFO - Progress: 200/294 images processed
+2026-01-20 21:36:18,010 - __main__ - INFO - Processing: lobelia4cosmetics\22900.jpg
+2026-01-20 21:36:18,151 - __main__ - INFO - Processing: lobelia4cosmetics\22901.jpg
+2026-01-20 21:36:18,270 - __main__ - INFO - Processing: lobelia4cosmetics\22902.jpg
+2026-01-20 21:36:18,385 - __main__ - INFO - Processing: lobelia4cosmetics\22903.jpg
+2026-01-20 21:36:18,521 - __main__ - INFO - Processing: lobelia4cosmetics\22904.jpg
+2026-01-20 21:36:18,655 - __main__ - INFO - Processing: lobelia4cosmetics\22905.jpg
+2026-01-20 21:36:18,782 - __main__ - INFO - Processing: lobelia4cosmetics\22906.jpg
+2026-01-20 21:36:18,902 - __main__ - INFO - Processing: lobelia4cosmetics\22907.jpg
+2026-01-20 21:36:19,011 - __main__ - INFO - Processing: lobelia4cosmetics\22908.jpg
+2026-01-20 21:36:19,160 - __main__ - INFO - Processing: lobelia4cosmetics\22909.jpg
+2026-01-20 21:36:19,259 - __main__ - INFO - Progress: 210/294 images processed
+2026-01-20 21:36:19,260 - __main__ - INFO - Processing: lobelia4cosmetics\22910.jpg
+2026-01-20 21:36:19,380 - __main__ - INFO - Processing: lobelia4cosmetics\22911.jpg
+2026-01-20 21:36:19,485 - __main__ - INFO - Processing: lobelia4cosmetics\22912.jpg
+2026-01-20 21:36:19,636 - __main__ - INFO - Processing: lobelia4cosmetics\22913.jpg
+2026-01-20 21:36:19,742 - __main__ - INFO - Processing: lobelia4cosmetics\22914.jpg
+2026-01-20 21:36:19,889 - __main__ - INFO - Processing: lobelia4cosmetics\22915.jpg
+2026-01-20 21:36:20,027 - __main__ - INFO - Processing: lobelia4cosmetics\22916.jpg
+2026-01-20 21:36:20,171 - __main__ - INFO - Processing: lobelia4cosmetics\22917.jpg
+2026-01-20 21:36:20,303 - __main__ - INFO - Processing: lobelia4cosmetics\22918.jpg
+2026-01-20 21:36:20,457 - __main__ - INFO - Processing: lobelia4cosmetics\22919.jpg
+2026-01-20 21:36:20,568 - __main__ - INFO - Progress: 220/294 images processed
+2026-01-20 21:36:20,569 - __main__ - INFO - Processing: lobelia4cosmetics\22920.jpg
+2026-01-20 21:36:20,693 - __main__ - INFO - Processing: lobelia4cosmetics\22921.jpg
+2026-01-20 21:36:20,810 - __main__ - INFO - Processing: lobelia4cosmetics\22922.jpg
+2026-01-20 21:36:20,929 - __main__ - INFO - Processing: lobelia4cosmetics\22923.jpg
+2026-01-20 21:36:21,158 - __main__ - INFO - Processing: lobelia4cosmetics\22924.jpg
+2026-01-20 21:36:21,279 - __main__ - INFO - Processing: lobelia4cosmetics\22925.jpg
+2026-01-20 21:36:21,447 - __main__ - INFO - Processing: lobelia4cosmetics\22926.jpg
+2026-01-20 21:36:21,600 - __main__ - INFO - Processing: lobelia4cosmetics\22927.jpg
+2026-01-20 21:36:21,740 - __main__ - INFO - Processing: lobelia4cosmetics\22928.jpg
+2026-01-20 21:36:21,911 - __main__ - INFO - Processing: lobelia4cosmetics\22929.jpg
+2026-01-20 21:36:22,049 - __main__ - INFO - Progress: 230/294 images processed
+2026-01-20 21:36:22,049 - __main__ - INFO - Processing: lobelia4cosmetics\22930.jpg
+2026-01-20 21:36:22,179 - __main__ - INFO - Processing: lobelia4cosmetics\22931.jpg
+2026-01-20 21:36:22,360 - __main__ - INFO - Processing: lobelia4cosmetics\22932.jpg
+2026-01-20 21:36:22,546 - __main__ - INFO - Processing: lobelia4cosmetics\22933.jpg
+2026-01-20 21:36:22,726 - __main__ - INFO - Processing: lobelia4cosmetics\22934.jpg
+2026-01-20 21:36:22,888 - __main__ - INFO - Processing: lobelia4cosmetics\22935.jpg
+2026-01-20 21:36:23,047 - __main__ - INFO - Processing: lobelia4cosmetics\22936.jpg
+2026-01-20 21:36:23,165 - __main__ - INFO - Processing: lobelia4cosmetics\22937.jpg
+2026-01-20 21:36:23,338 - __main__ - INFO - Processing: lobelia4cosmetics\22938.jpg
+2026-01-20 21:36:23,483 - __main__ - INFO - Processing: lobelia4cosmetics\22939.jpg
+2026-01-20 21:36:23,627 - __main__ - INFO - Progress: 240/294 images processed
+2026-01-20 21:36:23,627 - __main__ - INFO - Processing: lobelia4cosmetics\22940.jpg
+2026-01-20 21:36:23,772 - __main__ - INFO - Processing: lobelia4cosmetics\22941.jpg
+2026-01-20 21:36:23,893 - __main__ - INFO - Processing: lobelia4cosmetics\22942.jpg
+2026-01-20 21:36:24,015 - __main__ - INFO - Processing: lobelia4cosmetics\22943.jpg
+2026-01-20 21:36:24,130 - __main__ - INFO - Processing: lobelia4cosmetics\22944.jpg
+2026-01-20 21:36:24,250 - __main__ - INFO - Processing: lobelia4cosmetics\22945.jpg
+2026-01-20 21:36:24,374 - __main__ - INFO - Processing: lobelia4cosmetics\22946.jpg
+2026-01-20 21:36:24,498 - __main__ - INFO - Processing: tikvahpharma\188920.jpg
+2026-01-20 21:36:24,620 - __main__ - INFO - Processing: tikvahpharma\188926.jpg
+2026-01-20 21:36:24,745 - __main__ - INFO - Processing: tikvahpharma\188927.jpg
+2026-01-20 21:36:24,875 - __main__ - INFO - Progress: 250/294 images processed
+2026-01-20 21:36:24,876 - __main__ - INFO - Processing: tikvahpharma\188931.jpg
+2026-01-20 21:36:25,027 - __main__ - INFO - Processing: tikvahpharma\188936.jpg
+2026-01-20 21:36:25,153 - __main__ - INFO - Processing: tikvahpharma\188938.jpg
+2026-01-20 21:36:25,277 - __main__ - INFO - Processing: tikvahpharma\188940.jpg
+2026-01-20 21:36:25,401 - __main__ - INFO - Processing: tikvahpharma\188941.jpg
+2026-01-20 21:36:25,534 - __main__ - INFO - Processing: tikvahpharma\188942.jpg
+2026-01-20 21:36:25,671 - __main__ - INFO - Processing: tikvahpharma\188954.jpg
+2026-01-20 21:36:25,811 - __main__ - INFO - Processing: tikvahpharma\188960.jpg
+2026-01-20 21:36:25,933 - __main__ - INFO - Processing: tikvahpharma\188962.jpg
+2026-01-20 21:36:26,073 - __main__ - INFO - Processing: tikvahpharma\188970.jpg
+2026-01-20 21:36:26,187 - __main__ - INFO - Progress: 260/294 images processed
+2026-01-20 21:36:26,188 - __main__ - INFO - Processing: tikvahpharma\188973.jpg
+2026-01-20 21:36:26,297 - __main__ - INFO - Processing: tikvahpharma\188975.jpg
+2026-01-20 21:36:26,420 - __main__ - INFO - Processing: tikvahpharma\188979.jpg
+2026-01-20 21:36:26,538 - __main__ - INFO - Processing: tikvahpharma\188981.jpg
+2026-01-20 21:36:26,680 - __main__ - INFO - Processing: tikvahpharma\188982.jpg
+2026-01-20 21:36:26,808 - __main__ - INFO - Processing: tikvahpharma\188983.jpg
+2026-01-20 21:36:26,920 - __main__ - INFO - Processing: tikvahpharma\188984.jpg
+2026-01-20 21:36:27,021 - __main__ - INFO - Processing: tikvahpharma\188985.jpg
+2026-01-20 21:36:27,113 - __main__ - INFO - Processing: tikvahpharma\188986.jpg
+2026-01-20 21:36:27,211 - __main__ - INFO - Processing: tikvahpharma\188990.jpg
+2026-01-20 21:36:27,343 - __main__ - INFO - Progress: 270/294 images processed
+2026-01-20 21:36:27,344 - __main__ - INFO - Processing: tikvahpharma\188991.jpg
+2026-01-20 21:36:27,488 - __main__ - INFO - Processing: tikvahpharma\188993.jpg
+2026-01-20 21:36:27,611 - __main__ - INFO - Processing: tikvahpharma\188996.jpg
+2026-01-20 21:36:27,743 - __main__ - INFO - Processing: tikvahpharma\188997.jpg
+2026-01-20 21:36:27,842 - __main__ - INFO - Processing: tikvahpharma\189002.jpg
+2026-01-20 21:36:27,977 - __main__ - INFO - Processing: tikvahpharma\189003.jpg
+2026-01-20 21:36:28,104 - __main__ - INFO - Processing: tikvahpharma\189007.jpg
+2026-01-20 21:36:28,213 - __main__ - INFO - Processing: tikvahpharma\189010.jpg
+2026-01-20 21:36:28,313 - __main__ - INFO - Processing: tikvahpharma\189011.jpg
+2026-01-20 21:36:28,438 - __main__ - INFO - Processing: tikvahpharma\189012.jpg
+2026-01-20 21:36:28,569 - __main__ - INFO - Progress: 280/294 images processed
+2026-01-20 21:36:28,570 - __main__ - INFO - Processing: tikvahpharma\189013.jpg
+2026-01-20 21:36:28,704 - __main__ - INFO - Processing: tikvahpharma\189014.jpg
+2026-01-20 21:36:28,829 - __main__ - INFO - Processing: tikvahpharma\189015.jpg
+2026-01-20 21:36:28,965 - __main__ - INFO - Processing: tikvahpharma\189016.jpg
+2026-01-20 21:36:29,095 - __main__ - INFO - Processing: tikvahpharma\189017.jpg
+2026-01-20 21:36:29,219 - __main__ - INFO - Processing: tikvahpharma\189018.jpg
+2026-01-20 21:36:29,328 - __main__ - INFO - Processing: tikvahpharma\189019.jpg
+2026-01-20 21:36:29,434 - __main__ - INFO - Processing: tikvahpharma\189020.jpg
+2026-01-20 21:36:29,562 - __main__ - INFO - Processing: tikvahpharma\189029.jpg
+2026-01-20 21:36:29,663 - __main__ - INFO - Processing: tikvahpharma\189032.jpg
+2026-01-20 21:36:29,799 - __main__ - INFO - Progress: 290/294 images processed
+2026-01-20 21:36:29,800 - __main__ - INFO - Processing: tikvahpharma\189041.jpg
+2026-01-20 21:36:29,938 - __main__ - INFO - Processing: tikvahpharma\189042.jpg
+2026-01-20 21:36:30,099 - __main__ - INFO - Processing: tikvahpharma\189043.jpg
+2026-01-20 21:36:30,302 - __main__ - INFO - Processing: tikvahpharma\189044.jpg
+2026-01-20 21:36:30,415 - __main__ - INFO - Processing complete. Success: 294, Errors: 0
+2026-01-20 21:36:30,419 - __main__ - INFO - Loaded 294 existing records
+2026-01-20 21:36:30,438 - __main__ - INFO - Saved 294 total records to C:\Users\yoga\code\10_Academy\week_8\image_enrichment\outputs\image_detections.json
+2026-01-20 21:36:30,438 - __main__ - INFO - New records added: 0
+2026-01-20 21:36:30,444 - __main__ - INFO - Saved 834 detection rows to C:\Users\yoga\code\10_Academy\week_8\image_enrichment\outputs\image_detections.csv
+2026-01-20 21:36:30,444 - __main__ - INFO - ============================================================
+2026-01-20 21:36:30,444 - __main__ - INFO - Pipeline execution complete
+2026-01-20 21:36:30,445 - __main__ - INFO - ============================================================

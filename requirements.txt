@@ -3,3 +3,34 @@ python-dotenv==1.0.1
 psycopg2-binary==2.9.9
 sqlalchemy==2.0.25
 dbt-postgres==1.7.3
+# YOLOv8 Image Enrichment Pipeline Dependencies
+
+# YOLOv8 object detection
+ultralytics>=8.0.0
+
+# Image processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Deep learning framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Numerical computing
+numpy>=1.24.0
+
+# Optional: GPU acceleration (CUDA)
+# Uncomment if you have CUDA-compatible GPU
+# torch==2.0.0+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
+
+
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic
+
+
+dagster
+dagster-webserver

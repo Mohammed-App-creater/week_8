@@ -2,6 +2,9 @@ name: 'medical_warehouse'
 version: '1.0.0'
 config-version: 2
 
+vars:
+  surrogate_key_treat_nulls_as_empty_strings: true
+  
 profile: 'medical_warehouse'
 
 model-paths: ["models"]
