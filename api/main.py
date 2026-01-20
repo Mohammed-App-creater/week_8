@@ -1,17 +1,22 @@
 from fastapi import FastAPI
-import os
+from api.routers import analytics, reports
 
-app = FastAPI(title="Medical Data Analytics API")
+app = FastAPI(
+    title="Telegram Data Warehouse Analytics API",
+    description="Read-only API for accessing analytics from the Telegram data warehouse.",
+    version="1.0.0"
+)
 
-@app.get("/")
-def read_root():
-    return {"message": "Welcome to the Medical Data Analytics API"}
+app.include_router(analytics.router)
+app.include_router(reports.router)
 
 @app.get("/health")
 def health_check():
-    return {"status": "healthy"}
+    """
+    Health check endpoint to verify API is running.
+    """
+    return {"status": "ok"}
 
-# TODO: Add endpoints for Task 4
-# - Get message statistics
-# - Get channel comparison
-# - Get YOLO enrichment results
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run("api.main:app", host="127.0.0.1", port=8000, reload=True)
