@@ -27,7 +27,7 @@ The high-level architecture of the pipeline is illustrated below:
 The data is modeled using a **Star Schema** optimized for analytical queries:
 
 ![Star Schema](docs/screenshots/star_schema.png)
-*(Note: Ensure star_schema.png is present in docs/screenshots/)*
+
 
 *Figure 2: Data Warehouse Star Schema*
 
